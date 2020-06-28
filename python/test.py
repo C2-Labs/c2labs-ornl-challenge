@@ -1,2 +1,8 @@
-dict = {'Name': 'Zara', 'Age': 7}
-print ("Value : %s" %  dict.keys())
+import pgeocode
+
+zipcode = 78736
+
+nomi = pgeocode.Nominatim('us')
+results = nomi.query_postal_code(zipcode)
+
+print (results)
