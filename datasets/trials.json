@@ -1,4900 +1,1925 @@
 [
   {
-    "1": [
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT02004275"
-      },
-      {
-        "nct_id": "NCT02122185"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT00980954"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03654768"
-      },
-      {
-        "nct_id": "NCT04115631"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04173507"
-      },
-      {
-        "nct_id": "NCT03944941"
-      },
-      {
-        "nct_id": "NCT03267433"
-      },
-      {
-        "nct_id": "NCT03375320"
-      },
-      {
-        "nct_id": "NCT03997370"
-      },
-      {
-        "nct_id": "NCT02849496"
-      },
-      {
-        "nct_id": "NCT04214067"
-      },
-      {
-        "nct_id": "NCT02314169"
-      },
-      {
-        "nct_id": "NCT03414658"
-      },
-      {
-        "nct_id": "NCT03284385"
-      },
-      {
-        "nct_id": "NCT02936752"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT02443077"
-      },
-      {
-        "nct_id": "NCT00887146"
-      },
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT02004275"
-      },
-      {
-        "nct_id": "NCT02122185"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT00980954"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03654768"
-      },
-      {
-        "nct_id": "NCT04115631"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04173507"
-      },
-      {
-        "nct_id": "NCT03944941"
-      },
-      {
-        "nct_id": "NCT03267433"
-      },
-      {
-        "nct_id": "NCT03375320"
-      },
-      {
-        "nct_id": "NCT03997370"
-      },
-      {
-        "nct_id": "NCT02849496"
-      },
-      {
-        "nct_id": "NCT04214067"
-      },
-      {
-        "nct_id": "NCT02314169"
-      },
-      {
-        "nct_id": "NCT03414658"
-      },
-      {
-        "nct_id": "NCT03284385"
-      },
-      {
-        "nct_id": "NCT02936752"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT02443077"
-      },
-      {
-        "nct_id": "NCT00887146"
-      },
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT02004275"
-      },
-      {
-        "nct_id": "NCT02122185"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT00980954"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03654768"
-      },
-      {
-        "nct_id": "NCT04115631"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04173507"
-      },
-      {
-        "nct_id": "NCT03944941"
-      },
-      {
-        "nct_id": "NCT03267433"
-      },
-      {
-        "nct_id": "NCT03375320"
-      },
-      {
-        "nct_id": "NCT03997370"
-      },
-      {
-        "nct_id": "NCT02849496"
-      },
-      {
-        "nct_id": "NCT04214067"
-      },
-      {
-        "nct_id": "NCT02314169"
-      },
-      {
-        "nct_id": "NCT03414658"
-      },
-      {
-        "nct_id": "NCT03284385"
-      },
-      {
-        "nct_id": "NCT02936752"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT02443077"
-      },
-      {
-        "nct_id": "NCT00887146"
-      },
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT02004275"
-      },
-      {
-        "nct_id": "NCT02122185"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT00980954"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03654768"
-      },
-      {
-        "nct_id": "NCT04115631"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04173507"
-      },
-      {
-        "nct_id": "NCT03944941"
-      },
-      {
-        "nct_id": "NCT03267433"
-      },
-      {
-        "nct_id": "NCT03375320"
-      },
-      {
-        "nct_id": "NCT03997370"
-      },
-      {
-        "nct_id": "NCT02849496"
-      },
-      {
-        "nct_id": "NCT04214067"
-      },
-      {
-        "nct_id": "NCT02314169"
-      },
-      {
-        "nct_id": "NCT03414658"
-      },
-      {
-        "nct_id": "NCT03284385"
-      },
-      {
-        "nct_id": "NCT02936752"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT02443077"
-      },
-      {
-        "nct_id": "NCT00887146"
+    "nci_id": "NCI-2012-00112",
+    "nct_id": "NCT01503086",
+    "protocol_id": "ACCL10P1",
+    "ccr_id": null,
+    "ctep_id": "ACCL10P1",
+    "dcp_id": "COG-ACCL10P1",
+    "other_ids": [
+      {
+        "name": "Study Protocol Other Identifier",
+        "value": "CDR0000721387"
+      },
+      {
+        "name": "Study Protocol Other Identifier",
+        "value": "COG-ACCL10P1"
       }
-    ]
-  },
-  {
-    "2": [
+    ],
+    "associated_studies": null,
+    "outcome_measures": [
       {
-        "nct_id": "NCT02488967"
+        "name": "Proportion of patients with intervention compliance",
+        "description": "Intervention compliance defined as at least 80% of sessions completed (i.e., completing at least 20 sessions within 9 weeks of starting training).",
+        "timeframe": "Up to 9 weeks of starting training",
+        "type_code": "PRIMARY"
       },
       {
-        "nct_id": "NCT02954874"
+        "name": "Working memory (WM) using the Metacognition subscales from (BRIEF)",
+        "description": null,
+        "timeframe": "Up to 6 months post training completion",
+        "type_code": "OTHER_PRE_SPECIFIED"
       },
       {
-        "nct_id": "NCT03137771"
+        "name": "Satisfaction based on the item responses to the 13-item Feasibility Interview",
+        "description": null,
+        "timeframe": "Up to 6 months post training completion",
+        "type_code": "OTHER_PRE_SPECIFIED"
       },
       {
-        "nct_id": "NCT02201992"
+        "name": "Parent-rated executive function using the Metacognition subscales from the Behavior Rating Inventory of Executive Function (BRIEF)",
+        "description": null,
+        "timeframe": "Up to 6 months post training completion",
+        "type_code": "OTHER_PRE_SPECIFIED"
       },
       {
-        "nct_id": "NCT03793179"
+        "name": "Ease of use based on the item responses to the 13-item Feasibility Interview",
+        "description": null,
+        "timeframe": "Up to 6 months post training completion",
+        "type_code": "OTHER_PRE_SPECIFIED"
       },
       {
-        "nct_id": "NCT03233711"
+        "name": "Executive function using the Groton Maze Learning task of the CogState battery",
+        "description": null,
+        "timeframe": "Up to 6 months post training completion",
+        "type_code": "OTHER_PRE_SPECIFIED"
       },
       {
-        "nct_id": "NCT03199885"
+        "name": "Technical feasibility based on the item responses to the 13-item Feasibility Interview",
+        "description": null,
+        "timeframe": "Up to 6 months post training completion",
+        "type_code": "OTHER_PRE_SPECIFIED"
       },
       {
-        "nct_id": "NCT03598257"
+        "name": "Visual memory using Dot Location from Children\u2019s Memory Scale",
+        "description": null,
+        "timeframe": "Up to 6 months post training completion",
+        "type_code": "OTHER_PRE_SPECIFIED"
       },
       {
-        "nct_id": "NCT02194738"
+        "name": "WM by the one-back task from CogState",
+        "description": null,
+        "timeframe": "Up to 6 months post training completion",
+        "type_code": "OTHER_PRE_SPECIFIED"
       },
       {
-        "nct_id": "NCT02717507"
+        "name": "WM by Digit Span from Wechsler Intelligence Scales",
+        "description": null,
+        "timeframe": "Up to 6 months post training completion",
+        "type_code": "OTHER_PRE_SPECIFIED"
       },
       {
-        "nct_id": "NCT03723928"
+        "name": "Visual working memory using Spatial Span from Wechsler Scale",
+        "description": null,
+        "timeframe": "Up to 6 months post training completion",
+        "type_code": "OTHER_PRE_SPECIFIED"
       },
       {
-        "nct_id": "NCT03939481"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03137771"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03598257"
-      },
-      {
-        "nct_id": "NCT02194738"
-      },
-      {
-        "nct_id": "NCT02717507"
-      },
-      {
-        "nct_id": "NCT03723928"
-      },
-      {
-        "nct_id": "NCT03939481"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03137771"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03598257"
-      },
-      {
-        "nct_id": "NCT02194738"
-      },
-      {
-        "nct_id": "NCT02717507"
-      },
-      {
-        "nct_id": "NCT03723928"
-      },
-      {
-        "nct_id": "NCT03939481"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03137771"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03598257"
-      },
-      {
-        "nct_id": "NCT02194738"
-      },
-      {
-        "nct_id": "NCT02717507"
-      },
-      {
-        "nct_id": "NCT03723928"
-      },
-      {
-        "nct_id": "NCT03939481"
+        "name": "Adherence based on total number of training sessions completed",
+        "description": null,
+        "timeframe": "Up to 6 months post training completion",
+        "type_code": "OTHER_PRE_SPECIFIED"
       }
-    ]
-  },
-  {
-    "3": [
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT02582697"
-      },
-      {
-        "nct_id": "NCT03070886"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03811002"
-      },
-      {
-        "nct_id": "NCT03678025"
-      },
-      {
-        "nct_id": "NCT03952585"
-      },
-      {
-        "nct_id": "NCT03137771"
-      },
-      {
-        "nct_id": "NCT01220583"
-      },
-      {
-        "nct_id": "NCT01993810"
-      },
-      {
-        "nct_id": "NCT02603341"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03180268"
-      },
-      {
-        "nct_id": "NCT00887146"
-      },
-      {
-        "nct_id": "NCT03144765"
-      },
-      {
-        "nct_id": "NCT03611738"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT03811015"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03414970"
-      },
-      {
-        "nct_id": "NCT03087708"
-      },
-      {
-        "nct_id": "NCT02194738"
-      },
-      {
-        "nct_id": "NCT02717507"
-      },
-      {
-        "nct_id": "NCT01349881"
-      },
-      {
-        "nct_id": "NCT03723928"
-      },
-      {
-        "nct_id": "NCT03206450"
-      },
-      {
-        "nct_id": "NCT03057626"
-      },
-      {
-        "nct_id": "NCT02775383"
-      },
-      {
-        "nct_id": "NCT02685631"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT02582697"
-      },
-      {
-        "nct_id": "NCT03070886"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03811002"
-      },
-      {
-        "nct_id": "NCT03678025"
-      },
-      {
-        "nct_id": "NCT03952585"
-      },
-      {
-        "nct_id": "NCT03137771"
-      },
-      {
-        "nct_id": "NCT01220583"
-      },
-      {
-        "nct_id": "NCT01993810"
-      },
-      {
-        "nct_id": "NCT02603341"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03180268"
-      },
-      {
-        "nct_id": "NCT00887146"
-      },
-      {
-        "nct_id": "NCT03144765"
-      },
-      {
-        "nct_id": "NCT03611738"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT03811015"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03414970"
-      },
-      {
-        "nct_id": "NCT03087708"
-      },
-      {
-        "nct_id": "NCT02194738"
-      },
-      {
-        "nct_id": "NCT02717507"
-      },
-      {
-        "nct_id": "NCT01349881"
-      },
-      {
-        "nct_id": "NCT03723928"
-      },
-      {
-        "nct_id": "NCT03206450"
-      },
-      {
-        "nct_id": "NCT03057626"
-      },
-      {
-        "nct_id": "NCT02775383"
-      },
-      {
-        "nct_id": "NCT02685631"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT02582697"
-      },
-      {
-        "nct_id": "NCT03070886"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03811002"
-      },
-      {
-        "nct_id": "NCT03678025"
-      },
-      {
-        "nct_id": "NCT03952585"
-      },
-      {
-        "nct_id": "NCT03137771"
-      },
-      {
-        "nct_id": "NCT01220583"
-      },
-      {
-        "nct_id": "NCT01993810"
-      },
-      {
-        "nct_id": "NCT02603341"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03180268"
-      },
-      {
-        "nct_id": "NCT00887146"
-      },
-      {
-        "nct_id": "NCT03144765"
-      },
-      {
-        "nct_id": "NCT03611738"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT03811015"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03414970"
-      },
-      {
-        "nct_id": "NCT03087708"
-      },
-      {
-        "nct_id": "NCT02194738"
-      },
-      {
-        "nct_id": "NCT02717507"
-      },
-      {
-        "nct_id": "NCT01349881"
-      },
-      {
-        "nct_id": "NCT03723928"
-      },
-      {
-        "nct_id": "NCT03206450"
-      },
-      {
-        "nct_id": "NCT03057626"
-      },
-      {
-        "nct_id": "NCT02775383"
-      },
-      {
-        "nct_id": "NCT02685631"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT02582697"
-      },
-      {
-        "nct_id": "NCT03070886"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03811002"
-      },
-      {
-        "nct_id": "NCT03678025"
-      },
-      {
-        "nct_id": "NCT03952585"
-      },
-      {
-        "nct_id": "NCT03137771"
-      },
-      {
-        "nct_id": "NCT01220583"
-      },
-      {
-        "nct_id": "NCT01993810"
-      },
-      {
-        "nct_id": "NCT02603341"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03180268"
-      },
-      {
-        "nct_id": "NCT00887146"
-      },
-      {
-        "nct_id": "NCT03144765"
-      },
-      {
-        "nct_id": "NCT03611738"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT03811015"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03414970"
-      },
-      {
-        "nct_id": "NCT03087708"
-      },
-      {
-        "nct_id": "NCT02194738"
-      },
-      {
-        "nct_id": "NCT02717507"
-      },
-      {
-        "nct_id": "NCT01349881"
-      },
-      {
-        "nct_id": "NCT03723928"
-      },
-      {
-        "nct_id": "NCT03206450"
-      },
-      {
-        "nct_id": "NCT03057626"
-      },
-      {
-        "nct_id": "NCT02775383"
-      },
-      {
-        "nct_id": "NCT02685631"
+    ],
+    "amendment_date": "2018-08-06T00:00:00",
+    "current_trial_status": "Active",
+    "current_trial_status_date": "2013-11-18",
+    "start_date": "2013-11-18",
+    "start_date_type_code": "ACTUAL",
+    "completion_date": null,
+    "completion_date_type_code": null,
+    "record_verification_date": "2018-09-22",
+    "brief_title": "Computer Training Program for Younger Patients with a Brain Tumor Who Underwent Radiation Therapy",
+    "official_title": "Computerized Cognitive Training for Pediatric Brain Tumor Patients: A Pilot Study",
+    "acronym": null,
+    "keywords": null,
+    "brief_summary": "This randomized clinical trial studies how well an adaptive computerized cognitive training program works compared to a non-adaptive computerized cognitive training program in treating younger patients with brain tumor who underwent radiation therapy. Providing a computer training program may improve the well-being and quality of life of patients with cognitive (physical and mental) function difficulties caused by radiation therapy to the brain.",
+    "detail_description": "PRIMARY OBJECTIVES:\r\nI. To assess the feasibility of a home-based, computerized, cognitive training program for patients with pediatric brain tumors who are undergoing cranial radiation therapy (CRT), treated in multiple Children Oncology Group (COG) institutions.\r\n\r\nEXPLORATORY OBJECTIVES:\r\nI. To estimate the effect size of this program on measures of attention and working memory in patients with brain tumors treated with CRT in order to design a definitive large-scale clinical trial.\r\n\r\nOUTLINE: Patients are randomized to 1 of 2 arms.\r\n\r\nARM I (intervention): Patients undergo a home-based, computerized, interactive training program comprising 3-5 sessions of 15-45 minutes every week for 5-9 weeks. The program contains twelve visually engaging and interesting exercises that target skills involving visual-spatial and verbal working memory (WM). The program is adaptive in a way that each difficulty task is automatically adjusted on a trial-by-trail basis to match a patient\u2019s current WM. Each patient has an interventional coach who has online access to patient's training sessions and outcomes (pass or fail). Coaches are able to modify the training sequence or make suggestions to patients and/or parents about how progress can be maximized. Coaches also have telephone meetings with patients and/or families once a week to ensure compliance, track progress, provide feedback, and answer questions that arise during training.\r\n\r\nARM II (control): Patients undergo a home-based, computerized, interactive, non-adaptive training program comprising 3-5 sessions of 15-45 minutes a week for 5-9 weeks. Each patient also has an interventional coach as in arm I. Patients in both arms complete a brief neuropsychological/behavioral assessment comprising the Wechsler Intelligence Scale for Children (WIS-IV), the Children's Memory Scale (CMS), and the California Verbal Learning Test-Children's Version (CVLT-C) at baseline, after completion of study, and at 6 months after completion of study. Additionally, parents complete a parent-report questionnaire to gather information about patient's behaviors, thoughts, emotions, adaptive skills, and social and functional impairment. Parents and children also complete surveys about the program regarding technical feasibility, adherence, ease-of-use, and satisfaction.\r\n\r\nAfter completion of study treatment, participants are followed up within 3 weeks, then at 6 months.",
+    "classification_code": "Efficacy",
+    "interventional_model": "Parallel",
+    "study_source": "National",
+    "accepts_healthy_volunteers_indicator": "NO",
+    "study_protocol_type": "Interventional",
+    "study_subtype_code": null,
+    "study_population_description": null,
+    "study_model_code": null,
+    "study_model_other_text": null,
+    "sampling_method_code": null,
+    "bio_specimen": {
+      "f1": "bio_specimen_description",
+      "f2": null,
+      "f3": "bio_specimen_retention_code",
+      "f4": null
+    },
+    "primary_purpose": {
+      "primary_purpose_code": "SUPPORTIVE_CARE",
+      "primary_purpose_other_text": null,
+      "primary_purpose_additional_qualifier_code": null
+    },
+    "phase": {
+      "phase": "NA",
+      "phase_other_text": null,
+      "phase_additional_qualifier_code": "YES"
+    },
+    "masking": {
+      "masking": "OPEN",
+      "masking_allocation_code": "Randomized Controlled Trial",
+      "masking_role_investigator": null,
+      "masking_role_outcome_assessor": "OUTCOMES_ASSESSOR",
+      "masking_role_subject": null,
+      "masking_role_caregiver": null
+    },
+    "principal_investigator": "Kristina Koren Hardy",
+    "central_contact": {
+      "central_contact_email": null,
+      "central_contact_name": null,
+      "central_contact_phone": null,
+      "central_contact_type": null
+    },
+    "lead_org": "Children's Oncology Group",
+    "collaborators": [
+      {
+        "name": "National Cancer Institute",
+        "functional_role": "FUNDING_SOURCE"
       }
-    ]
-  },
-  {
-    "4": [
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT04173507"
-      },
-      {
-        "nct_id": "NCT01896999"
-      },
-      {
-        "nct_id": "NCT03375320"
-      },
-      {
-        "nct_id": "NCT03678025"
-      },
-      {
-        "nct_id": "NCT03070886"
-      },
-      {
-        "nct_id": "NCT03258554"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03419234"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT04267848"
-      },
-      {
-        "nct_id": "NCT03224767"
-      },
-      {
-        "nct_id": "NCT02179086"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03367702"
-      },
-      {
-        "nct_id": "NCT02135042"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03180268"
-      },
-      {
-        "nct_id": "NCT00887146"
-      },
-      {
-        "nct_id": "NCT02375204"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT03994796"
-      },
-      {
-        "nct_id": "NCT03944941"
-      },
-      {
-        "nct_id": "NCT02775851"
-      },
-      {
-        "nct_id": "NCT03598257"
-      },
-      {
-        "nct_id": "NCT03811002"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT04173507"
-      },
-      {
-        "nct_id": "NCT01896999"
-      },
-      {
-        "nct_id": "NCT03375320"
-      },
-      {
-        "nct_id": "NCT03678025"
-      },
-      {
-        "nct_id": "NCT03070886"
-      },
-      {
-        "nct_id": "NCT03258554"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03419234"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT04267848"
-      },
-      {
-        "nct_id": "NCT03224767"
-      },
-      {
-        "nct_id": "NCT02179086"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03367702"
-      },
-      {
-        "nct_id": "NCT02135042"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03180268"
-      },
-      {
-        "nct_id": "NCT00887146"
-      },
-      {
-        "nct_id": "NCT02375204"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT03994796"
-      },
-      {
-        "nct_id": "NCT03944941"
-      },
-      {
-        "nct_id": "NCT02775851"
-      },
-      {
-        "nct_id": "NCT03598257"
-      },
-      {
-        "nct_id": "NCT03811002"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT04173507"
-      },
-      {
-        "nct_id": "NCT01896999"
-      },
-      {
-        "nct_id": "NCT03375320"
-      },
-      {
-        "nct_id": "NCT03678025"
-      },
-      {
-        "nct_id": "NCT03070886"
-      },
-      {
-        "nct_id": "NCT03258554"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03419234"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT04267848"
-      },
-      {
-        "nct_id": "NCT03224767"
-      },
-      {
-        "nct_id": "NCT02179086"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03367702"
-      },
-      {
-        "nct_id": "NCT02135042"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03180268"
-      },
-      {
-        "nct_id": "NCT00887146"
-      },
-      {
-        "nct_id": "NCT02375204"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT03994796"
-      },
-      {
-        "nct_id": "NCT03944941"
-      },
-      {
-        "nct_id": "NCT02775851"
-      },
-      {
-        "nct_id": "NCT03598257"
-      },
-      {
-        "nct_id": "NCT03811002"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT04173507"
-      },
-      {
-        "nct_id": "NCT01896999"
-      },
-      {
-        "nct_id": "NCT03375320"
-      },
-      {
-        "nct_id": "NCT03678025"
-      },
-      {
-        "nct_id": "NCT03070886"
-      },
-      {
-        "nct_id": "NCT03258554"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03419234"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT04267848"
-      },
-      {
-        "nct_id": "NCT03224767"
-      },
-      {
-        "nct_id": "NCT02179086"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03367702"
-      },
-      {
-        "nct_id": "NCT02135042"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03180268"
-      },
-      {
-        "nct_id": "NCT00887146"
-      },
-      {
-        "nct_id": "NCT02375204"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT03994796"
-      },
-      {
-        "nct_id": "NCT03944941"
-      },
-      {
-        "nct_id": "NCT02775851"
-      },
-      {
-        "nct_id": "NCT03598257"
-      },
-      {
-        "nct_id": "NCT03811002"
+    ],
+    "sites": [
+      {
+        "contact_email": "josh.b.gordon@nsmtp.kp.org",
+        "contact_name": "Site Public Contact",
+        "contact_phone": "303-764-5056",
+        "recruitment_status": "IN_REVIEW",
+        "recruitment_status_date": "2018-10-18",
+        "local_site_identifier": "",
+        "org_address_line_1": "13123 East 16th Avenue",
+        "org_address_line_2": null,
+        "org_city": "Aurora",
+        "org_country": "United States",
+        "org_email": "josh.b.gordon@nsmtp.kp.org",
+        "org_family": "University of Colorado Cancer Center",
+        "org_fax": null,
+        "org_name": "Children's Hospital Colorado",
+        "org_to_family_relationship": "ORGANIZATIONAL",
+        "org_phone": "720-777-1234",
+        "org_postal_code": "80045",
+        "org_state_or_province": "CO",
+        "org_status": "ACTIVE",
+        "org_status_date": "2013-01-21",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 39.7462,
+          "lon": -104.837
+        }
+      },
+      {
+        "contact_email": "samantha.mallory@unitypoint.org",
+        "contact_name": "Site Public Contact",
+        "contact_phone": "515-241-8912",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2018-07-20",
+        "local_site_identifier": "",
+        "org_address_line_1": "1200 Pleasant Street",
+        "org_address_line_2": null,
+        "org_city": "Des Moines",
+        "org_country": "United States",
+        "org_email": "samantha.mallory@unitypoint.org",
+        "org_family": null,
+        "org_fax": null,
+        "org_name": "Blank Children's Hospital",
+        "org_to_family_relationship": null,
+        "org_phone": "515-241-6729",
+        "org_postal_code": "50309",
+        "org_state_or_province": "IA",
+        "org_status": "ACTIVE",
+        "org_status_date": "2014-01-27",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 41.5836,
+          "lon": -93.6292
+        }
+      },
+      {
+        "contact_email": null,
+        "contact_name": "Site Public Contact",
+        "contact_phone": "800-622-8922",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2018-11-09",
+        "local_site_identifier": "",
+        "org_address_line_1": "600 Highland Avenue",
+        "org_address_line_2": null,
+        "org_city": "Madison",
+        "org_country": "United States",
+        "org_email": null,
+        "org_family": "University of Wisconsin Carbone Cancer Center",
+        "org_fax": null,
+        "org_name": "University of Wisconsin Hospital and Clinics",
+        "org_to_family_relationship": "ORGANIZATIONAL",
+        "org_phone": "608-262-5223",
+        "org_postal_code": "53792",
+        "org_state_or_province": "WI",
+        "org_status": "ACTIVE",
+        "org_status_date": "2008-12-31",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 43.0769,
+          "lon": -89.4329
+        }
+      },
+      {
+        "contact_email": null,
+        "contact_name": "Site Public Contact",
+        "contact_phone": "336-713-6771",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2020-03-09",
+        "local_site_identifier": "",
+        "org_address_line_1": "Medical Center Boulevard",
+        "org_address_line_2": null,
+        "org_city": "Winston-Salem",
+        "org_country": "United States",
+        "org_email": null,
+        "org_family": "Wake Forest Baptist Comprehensive Cancer Center",
+        "org_fax": null,
+        "org_name": "Wake Forest University Health Sciences",
+        "org_to_family_relationship": "ORGANIZATIONAL",
+        "org_phone": "336-713-6771",
+        "org_postal_code": "27157",
+        "org_state_or_province": "NC",
+        "org_status": "ACTIVE",
+        "org_status_date": "2008-12-31",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 36.0964,
+          "lon": -80.2096
+        }
+      },
+      {
+        "contact_email": "referralinfo@stjude.org",
+        "contact_name": "Site Public Contact",
+        "contact_phone": "888-226-4343",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2019-03-18",
+        "local_site_identifier": "",
+        "org_address_line_1": "262 Danny Thomas Place",
+        "org_address_line_2": null,
+        "org_city": "Memphis",
+        "org_country": "United States",
+        "org_email": "referralinfo@stjude.org",
+        "org_family": "St. Jude Children's Research Hospital",
+        "org_fax": null,
+        "org_name": "Saint Jude Children's Research Hospital",
+        "org_to_family_relationship": "ORGANIZATIONAL",
+        "org_phone": "901-595-4357\r866-278-5833",
+        "org_postal_code": "38105",
+        "org_state_or_province": "TN",
+        "org_status": "ACTIVE",
+        "org_status_date": "2020-05-18",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 35.1506,
+          "lon": -90.0341
+        }
+      },
+      {
+        "contact_email": "dperry@nemours.org",
+        "contact_name": "Site Public Contact",
+        "contact_phone": "302-651-6884",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2020-06-05",
+        "local_site_identifier": "",
+        "org_address_line_1": "1600 Rockland Road",
+        "org_address_line_2": null,
+        "org_city": "Wilmington",
+        "org_country": "United States",
+        "org_email": "dperry@nemours.org",
+        "org_family": null,
+        "org_fax": null,
+        "org_name": "Alfred I duPont Hospital for Children",
+        "org_to_family_relationship": null,
+        "org_phone": "302-651-5755",
+        "org_postal_code": "19803",
+        "org_state_or_province": "DE",
+        "org_status": "ACTIVE",
+        "org_status_date": "2010-07-21",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 39.7973,
+          "lon": -75.5445
+        }
+      },
+      {
+        "contact_email": "Leann.Schilling@choa.org",
+        "contact_name": "Site Public Contact",
+        "contact_phone": "404-785-2025",
+        "recruitment_status": "TEMPORARILY_CLOSED_TO_ACCRUAL",
+        "recruitment_status_date": "2020-03-14",
+        "local_site_identifier": "",
+        "org_address_line_1": "1405 Clifton Road Northeast",
+        "org_address_line_2": null,
+        "org_city": "Atlanta",
+        "org_country": "United States",
+        "org_email": "Leann.Schilling@choa.org",
+        "org_family": "Winship Cancer Institute of Emory University",
+        "org_fax": null,
+        "org_name": "Children's Healthcare of Atlanta - Egleston",
+        "org_to_family_relationship": "ORGANIZATIONAL",
+        "org_phone": "888-785-1112",
+        "org_postal_code": "30322",
+        "org_state_or_province": "GA",
+        "org_status": "ACTIVE",
+        "org_status_date": "2008-12-30",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 33.792,
+          "lon": -84.3239
+        }
+      },
+      {
+        "contact_email": null,
+        "contact_name": "Site Public Contact",
+        "contact_phone": "407-650-7150",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2020-06-05",
+        "local_site_identifier": "",
+        "org_address_line_1": "13535 Nemours Parkway",
+        "org_address_line_2": null,
+        "org_city": "Orlando",
+        "org_country": "United States",
+        "org_email": null,
+        "org_family": null,
+        "org_fax": null,
+        "org_name": "Nemours Children's Hospital",
+        "org_to_family_relationship": null,
+        "org_phone": "407-650-7150",
+        "org_postal_code": "32827",
+        "org_state_or_province": "FL",
+        "org_status": "ACTIVE",
+        "org_status_date": "2012-10-02",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 28.4288,
+          "lon": -81.3094
+        }
+      },
+      {
+        "contact_email": "rryan@cmh.edu",
+        "contact_name": "Site Public Contact",
+        "contact_phone": "816-302-6808",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2018-12-10",
+        "local_site_identifier": "",
+        "org_address_line_1": "2401 Gillham Road",
+        "org_address_line_2": null,
+        "org_city": "Kansas City",
+        "org_country": "United States",
+        "org_email": "rryan@cmh.edu",
+        "org_family": "University of Kansas Cancer Center",
+        "org_fax": null,
+        "org_name": "Children's Mercy Hospitals and Clinics",
+        "org_to_family_relationship": "ORGANIZATIONAL",
+        "org_phone": "816-234-3000",
+        "org_postal_code": "64108",
+        "org_state_or_province": "MO",
+        "org_status": "ACTIVE",
+        "org_status_date": "2019-02-11",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 39.084,
+          "lon": -94.5849
+        }
+      },
+      {
+        "contact_email": null,
+        "contact_name": "Site Public Contact",
+        "contact_phone": "202-884-2549",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2014-10-06",
+        "local_site_identifier": "",
+        "org_address_line_1": "111 Michigan Avenue Northwest",
+        "org_address_line_2": null,
+        "org_city": "Washington",
+        "org_country": "United States",
+        "org_email": null,
+        "org_family": null,
+        "org_fax": null,
+        "org_name": "Children's National Medical Center",
+        "org_to_family_relationship": null,
+        "org_phone": "202-884-2549",
+        "org_postal_code": "20010",
+        "org_state_or_province": "DC",
+        "org_status": "ACTIVE",
+        "org_status_date": "2008-12-30",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 38.9322,
+          "lon": -77.028
+        }
+      },
+      {
+        "contact_email": "CancerTrials@email.chop.edu",
+        "contact_name": "Site Public Contact",
+        "contact_phone": "267-425-5544",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2019-06-20",
+        "local_site_identifier": "",
+        "org_address_line_1": "3401 Civic Center Boulevard",
+        "org_address_line_2": null,
+        "org_city": "Philadelphia",
+        "org_country": "United States",
+        "org_email": "CancerTrials@email.chop.edu",
+        "org_family": "Abramson Cancer Center",
+        "org_fax": null,
+        "org_name": "Children's Hospital of Philadelphia",
+        "org_to_family_relationship": "ORGANIZATIONAL",
+        "org_phone": "215-590-2810",
+        "org_postal_code": "19104",
+        "org_state_or_province": "PA",
+        "org_status": "ACTIVE",
+        "org_status_date": "2008-12-31",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 39.9616,
+          "lon": -75.1995
+        }
+      },
+      {
+        "contact_email": "canceranswerline@UTSouthwestern.edu",
+        "contact_name": "Site Public Contact",
+        "contact_phone": "214-648-7097",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2019-06-07",
+        "local_site_identifier": "",
+        "org_address_line_1": "5323 Harry Hines Boulevard",
+        "org_address_line_2": null,
+        "org_city": "Dallas",
+        "org_country": "United States",
+        "org_email": "canceranswerline@UTSouthwestern.edu",
+        "org_family": "Harold C. Simmons Comprehensive Cancer Center",
+        "org_fax": null,
+        "org_name": "UT Southwestern / Simmons Cancer Center-Dallas",
+        "org_to_family_relationship": "ORGANIZATIONAL",
+        "org_phone": "214-648-7097",
+        "org_postal_code": "75390",
+        "org_state_or_province": "TX",
+        "org_status": "ACTIVE",
+        "org_status_date": "2015-05-21",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 32.8432,
+          "lon": -96.7016
+        }
+      },
+      {
+        "contact_email": "info@siteman.wustl.edu",
+        "contact_name": "Site Public Contact",
+        "contact_phone": "800-600-3606",
+        "recruitment_status": "CLOSED_TO_ACCRUAL",
+        "recruitment_status_date": "2019-09-12",
+        "local_site_identifier": "",
+        "org_address_line_1": "660 South Euclid Avenue",
+        "org_address_line_2": null,
+        "org_city": "Saint Louis",
+        "org_country": "United States",
+        "org_email": "info@siteman.wustl.edu",
+        "org_family": "Alvin J. Siteman Cancer Center",
+        "org_fax": null,
+        "org_name": "Washington University School of Medicine",
+        "org_to_family_relationship": "ORGANIZATIONAL",
+        "org_phone": null,
+        "org_postal_code": "63110",
+        "org_state_or_province": "MO",
+        "org_status": "ACTIVE",
+        "org_status_date": "2013-01-29",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 38.6267,
+          "lon": -90.267
+        }
+      },
+      {
+        "contact_email": "jason.mcguire@sickkids.ca",
+        "contact_name": "Site Public Contact",
+        "contact_phone": "416-813-7654ext2027",
+        "recruitment_status": "TEMPORARILY_CLOSED_TO_ACCRUAL",
+        "recruitment_status_date": "2020-06-11",
+        "local_site_identifier": "",
+        "org_address_line_1": "555 University Avenue",
+        "org_address_line_2": null,
+        "org_city": "Toronto",
+        "org_country": "Canada",
+        "org_email": "jason.mcguire@sickkids.ca",
+        "org_family": null,
+        "org_fax": null,
+        "org_name": "Hospital for Sick Children",
+        "org_to_family_relationship": null,
+        "org_phone": "416-813-1500",
+        "org_postal_code": "M5G 1X8",
+        "org_state_or_province": "Ontario",
+        "org_status": "ACTIVE",
+        "org_status_date": "2012-11-29",
+        "org_tty": null,
+        "org_va": false
+      },
+      {
+        "contact_email": null,
+        "contact_name": "Site Public Contact",
+        "contact_phone": "800-865-1125",
+        "recruitment_status": "CLOSED_TO_ACCRUAL",
+        "recruitment_status_date": "2018-07-20",
+        "local_site_identifier": "",
+        "org_address_line_1": "1500 East Medical Center Drive",
+        "org_address_line_2": null,
+        "org_city": "Ann Arbor",
+        "org_country": "United States",
+        "org_email": null,
+        "org_family": "University of Michigan Comprehensive Cancer Center",
+        "org_fax": null,
+        "org_name": "C S Mott Children's Hospital",
+        "org_to_family_relationship": "ORGANIZATIONAL",
+        "org_phone": "800-865-1125",
+        "org_postal_code": "48109",
+        "org_state_or_province": "MI",
+        "org_status": "ACTIVE",
+        "org_status_date": "2008-12-30",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 42.2909,
+          "lon": -83.7144
+        }
+      },
+      {
+        "contact_email": "HopeBeginsHere@providence.org",
+        "contact_name": "Site Public Contact",
+        "contact_phone": "800-228-6618",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2018-07-17",
+        "local_site_identifier": "",
+        "org_address_line_1": "101 West Eighth Avenue",
+        "org_address_line_2": null,
+        "org_city": "Spokane",
+        "org_country": "United States",
+        "org_email": "HopeBeginsHere@providence.org",
+        "org_family": null,
+        "org_fax": null,
+        "org_name": "Providence Sacred Heart Medical Center and Children's Hospital",
+        "org_to_family_relationship": null,
+        "org_phone": null,
+        "org_postal_code": "99204",
+        "org_state_or_province": "WA",
+        "org_status": "ACTIVE",
+        "org_status_date": "2013-01-08",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 47.6476,
+          "lon": -117.427
+        }
+      },
+      {
+        "contact_email": null,
+        "contact_name": "Site Public Contact",
+        "contact_phone": "888-275-3853",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2019-09-03",
+        "local_site_identifier": "",
+        "org_address_line_1": "2301 Erwin Road",
+        "org_address_line_2": null,
+        "org_city": "Durham",
+        "org_country": "United States",
+        "org_email": null,
+        "org_family": "Duke Cancer Institute",
+        "org_fax": "919-684-5653",
+        "org_name": "Duke University Medical Center",
+        "org_to_family_relationship": "ORGANIZATIONAL",
+        "org_phone": "888-275-3853",
+        "org_postal_code": "27710",
+        "org_state_or_province": "NC",
+        "org_status": "ACTIVE",
+        "org_status_date": "2010-06-04",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 35.9995,
+          "lon": -78.94
+        }
+      },
+      {
+        "contact_email": "hcc-clinical-trials@musc.edu",
+        "contact_name": "Site Public Contact",
+        "contact_phone": "843-792-9321",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2019-07-29",
+        "local_site_identifier": "",
+        "org_address_line_1": "171 Ashley Avenue",
+        "org_address_line_2": null,
+        "org_city": "Charleston",
+        "org_country": "United States",
+        "org_email": "hcc-clinical-trials@musc.edu",
+        "org_family": "Hollings Cancer Center",
+        "org_fax": null,
+        "org_name": "Medical University of South Carolina",
+        "org_to_family_relationship": "ORGANIZATIONAL",
+        "org_phone": "843-792-9321",
+        "org_postal_code": "29425",
+        "org_state_or_province": "SC",
+        "org_status": "ACTIVE",
+        "org_status_date": "2008-12-31",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 32.7799,
+          "lon": -79.9416
+        }
+      },
+      {
+        "contact_email": "phoresearchoffice@uthscsa.edu",
+        "contact_name": "Site Public Contact",
+        "contact_phone": "210-450-3800",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2020-02-28",
+        "local_site_identifier": "",
+        "org_address_line_1": "7703 Floyd Curl Drive",
+        "org_address_line_2": null,
+        "org_city": "San Antonio",
+        "org_country": "United States",
+        "org_email": "phoresearchoffice@uthscsa.edu",
+        "org_family": "Mays Cancer Center",
+        "org_fax": null,
+        "org_name": "University of Texas Health Science Center at San Antonio",
+        "org_to_family_relationship": "ORGANIZATIONAL",
+        "org_phone": "210-567-7000",
+        "org_postal_code": "78229",
+        "org_state_or_province": "TX",
+        "org_status": "ACTIVE",
+        "org_status_date": "2019-10-02",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 29.5052,
+          "lon": -98.5725
+        }
+      },
+      {
+        "contact_email": null,
+        "contact_name": "Site Public Contact",
+        "contact_phone": "904-697-3529",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2020-06-05",
+        "local_site_identifier": "",
+        "org_address_line_1": "807 Childrens Way",
+        "org_address_line_2": null,
+        "org_city": "Jacksonville",
+        "org_country": "United States",
+        "org_email": null,
+        "org_family": null,
+        "org_fax": null,
+        "org_name": "Nemours Children's Clinic-Jacksonville",
+        "org_to_family_relationship": null,
+        "org_phone": "904-697-3529",
+        "org_postal_code": "32207",
+        "org_state_or_province": "FL",
+        "org_status": "ACTIVE",
+        "org_status_date": "2015-05-05",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 30.291,
+          "lon": -81.6318
+        }
+      },
+      {
+        "contact_email": "klcampbell@vcu.edu",
+        "contact_name": "Site Public Contact",
+        "contact_phone": "804-628-1914",
+        "recruitment_status": "CLOSED_TO_ACCRUAL",
+        "recruitment_status_date": "2016-06-23",
+        "local_site_identifier": "",
+        "org_address_line_1": "401 College Street",
+        "org_address_line_2": null,
+        "org_city": "Richmond",
+        "org_country": "United States",
+        "org_email": "klcampbell@vcu.edu",
+        "org_family": "Massey Cancer Center",
+        "org_fax": null,
+        "org_name": "Virginia Commonwealth University / Massey Cancer Center",
+        "org_to_family_relationship": "ORGANIZATIONAL",
+        "org_phone": "804-628-1939",
+        "org_postal_code": "23298",
+        "org_state_or_province": "VA",
+        "org_status": "INACTIVE",
+        "org_status_date": "2019-10-19",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 37.5427,
+          "lon": -77.4296
+        }
+      },
+      {
+        "contact_email": null,
+        "contact_name": "Site Public Contact",
+        "contact_phone": "866-987-2000",
+        "recruitment_status": "ACTIVE",
+        "recruitment_status_date": "2018-07-11",
+        "local_site_identifier": "",
+        "org_address_line_1": "4800 Sand Point Way Northeast",
+        "org_address_line_2": null,
+        "org_city": "Seattle",
+        "org_country": "United States",
+        "org_email": null,
+        "org_family": "Fred Hutchinson / University of Washington Cancer Consortium",
+        "org_fax": null,
+        "org_name": "Seattle Children's Hospital",
+        "org_to_family_relationship": "ORGANIZATIONAL",
+        "org_phone": "206-987-2000",
+        "org_postal_code": "98105",
+        "org_state_or_province": "WA",
+        "org_status": "ACTIVE",
+        "org_status_date": "2015-05-05",
+        "org_tty": null,
+        "org_va": false,
+        "org_coordinates": {
+          "lat": 47.6619,
+          "lon": -122.2964
+        }
       }
-    ]
-  },
-  {
-    "5": [
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT04095364"
-      },
-      {
-        "nct_id": "NCT04092283"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT02734537"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03997370"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT01101451"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03775265"
-      },
-      {
-        "nct_id": "NCT00492778"
-      },
-      {
-        "nct_id": "NCT02143414"
-      },
-      {
-        "nct_id": "NCT02466971"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT02502266"
-      },
-      {
-        "nct_id": "NCT04214067"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03598257"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT04095364"
-      },
-      {
-        "nct_id": "NCT04092283"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT02734537"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03997370"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT01101451"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03775265"
-      },
-      {
-        "nct_id": "NCT00492778"
-      },
-      {
-        "nct_id": "NCT02143414"
-      },
-      {
-        "nct_id": "NCT02466971"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT02502266"
-      },
-      {
-        "nct_id": "NCT04214067"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03598257"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT04095364"
-      },
-      {
-        "nct_id": "NCT04092283"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT02734537"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03997370"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT01101451"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03775265"
-      },
-      {
-        "nct_id": "NCT00492778"
-      },
-      {
-        "nct_id": "NCT02143414"
-      },
-      {
-        "nct_id": "NCT02466971"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT02502266"
-      },
-      {
-        "nct_id": "NCT04214067"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03598257"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT04095364"
-      },
-      {
-        "nct_id": "NCT04092283"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT02734537"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03997370"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT01101451"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03775265"
-      },
-      {
-        "nct_id": "NCT00492778"
-      },
-      {
-        "nct_id": "NCT02143414"
-      },
-      {
-        "nct_id": "NCT02466971"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT02502266"
-      },
-      {
-        "nct_id": "NCT04214067"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03598257"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT03907488"
+    ],
+    "anatomic_sites": [
+      "Brain and Nervous System"
+    ],
+    "diseases": [
+      {
+        "inclusion_indicator": "TRIAL",
+        "lead_disease_indicator": "YES",
+        "nci_thesaurus_concept_id": "C2907",
+        "preferred_name": "Brain Neoplasm",
+        "display_name": "Brain Tumor",
+        "paths": [
+          {
+            "direction": 1,
+            "concepts": [
+              {
+                "idx": 0,
+                "label": "Central Nervous System Neoplasm",
+                "code": "C9293"
+              },
+              {
+                "idx": 1,
+                "label": "Nervous System Neoplasm",
+                "code": "C3268"
+              }
+            ]
+          }
+        ],
+        "type": [
+          "subtype"
+        ],
+        "synonyms": [
+          "Brain Neoplasm",
+          "Brain Neoplasms",
+          "Neoplasm of Brain",
+          "Neoplasm of the Brain",
+          "Tumor of Brain",
+          "Tumor of the Brain",
+          "brain tumor"
+        ],
+        "parents": [
+          "C96413",
+          "C4953"
+        ]
+      },
+      {
+        "inclusion_indicator": "TRIAL",
+        "lead_disease_indicator": "NO",
+        "nci_thesaurus_concept_id": "C71698",
+        "preferred_name": "Recurrent Brain Neoplasm",
+        "display_name": "Recurrent Brain Neoplasm",
+        "paths": [
+          {
+            "direction": 1,
+            "concepts": [
+              {
+                "idx": 0,
+                "label": "Central Nervous System Neoplasm",
+                "code": "C9293"
+              },
+              {
+                "idx": 1,
+                "label": "Nervous System Neoplasm",
+                "code": "C3268"
+              }
+            ]
+          }
+        ],
+        "type": [
+          "stage"
+        ],
+        "synonyms": [
+          "Recurrent Brain Tumor"
+        ],
+        "parents": [
+          "C2907",
+          "C170814",
+          "C71700"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C3268",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C3263",
+          "C26835"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Nervous System Tumor",
+        "preferred_name": "Nervous System Neoplasm",
+        "type": [
+          "maintype"
+        ],
+        "synonyms": [
+          "Neoplasm of Nervous System",
+          "Neoplasm of the Nervous System",
+          "Nervous System Neoplasm",
+          "Nervous System Neoplasms",
+          "Nervous System Tumour",
+          "Tumor of Nervous System",
+          "Tumor of the Nervous System"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C2934",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C26835"
+        ],
+        "lead_disease_indicator": "YES",
+        "display_name": "Central Nervous System Disorder",
+        "preferred_name": "Central Nervous System Disorder",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": [
+          "Central Nervous System Disease",
+          "Disorder of Central Nervous System"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C9293",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C2934",
+          "C3268"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Brain/Spinal Cord Tumor",
+        "preferred_name": "Central Nervous System Neoplasm",
+        "type": [
+          "maintype",
+          "subtype"
+        ],
+        "synonyms": [
+          "CNS Neoplasm",
+          "CNS Tumor",
+          "CNS tumor",
+          "Central Nervous System Neoplasm",
+          "Central Nervous System Tumor",
+          "Neoplasm of CNS",
+          "Neoplasm of Central Nervous System",
+          "Neoplasm of the Central Nervous System",
+          "Tumor of CNS",
+          "Tumor of Central Nervous System",
+          "Tumor of the CNS",
+          "Tumor of the Central Nervous System",
+          "central nervous system tumor"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C9293",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C2934",
+          "C3268"
+        ],
+        "lead_disease_indicator": "YES",
+        "display_name": "Brain/Spinal Cord Tumor",
+        "preferred_name": "Central Nervous System Neoplasm",
+        "type": [
+          "maintype",
+          "subtype"
+        ],
+        "synonyms": [
+          "CNS Neoplasm",
+          "CNS Tumor",
+          "CNS tumor",
+          "Central Nervous System Neoplasm",
+          "Central Nervous System Tumor",
+          "Neoplasm of CNS",
+          "Neoplasm of Central Nervous System",
+          "Neoplasm of the Central Nervous System",
+          "Tumor of CNS",
+          "Tumor of Central Nervous System",
+          "Tumor of the CNS",
+          "Tumor of the Central Nervous System",
+          "central nervous system tumor"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C4798",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C7062"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Recurrent Neoplasm",
+        "preferred_name": "Recurrent Neoplasm",
+        "type": [
+          "stage"
+        ],
+        "synonyms": [
+          "Neoplasm Recurrence",
+          "Recurrence",
+          "Recurrent Tumor",
+          "recurrence"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C170814",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C102871"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Primary Brain Neoplasm",
+        "preferred_name": "Primary Brain Neoplasm",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": []
+      },
+      {
+        "nci_thesaurus_concept_id": "C26835",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C27551"
+        ],
+        "lead_disease_indicator": "YES",
+        "display_name": "Nervous System Disorder",
+        "preferred_name": "Nervous System Disorder",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": [
+          "Disorder of Nervous System",
+          "Neurologic Disorder",
+          "Neurological Disorder",
+          "Unspecified Nervous System Problem"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C71700",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C102871",
+          "C4798"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Recurrent Primary Central Nervous System Neoplasm",
+        "preferred_name": "Recurrent Primary Central Nervous System Neoplasm",
+        "type": [
+          "stage"
+        ],
+        "synonyms": [
+          "Recurrent Primary Central Nervous System Tumor"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C96413",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C2934"
+        ],
+        "lead_disease_indicator": "YES",
+        "display_name": "Brain Disorder",
+        "preferred_name": "Brain Disorder",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": []
+      },
+      {
+        "nci_thesaurus_concept_id": "C7057",
+        "inclusion_indicator": "TREE",
+        "parents": [],
+        "lead_disease_indicator": "YES",
+        "display_name": "Disease, Disorder or Finding",
+        "preferred_name": "Disease, Disorder or Finding",
+        "type": [],
+        "synonyms": []
+      },
+      {
+        "nci_thesaurus_concept_id": "C2991",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C7057"
+        ],
+        "lead_disease_indicator": "YES",
+        "display_name": "Other Disease",
+        "preferred_name": "Disease or Disorder",
+        "type": [
+          "maintype"
+        ],
+        "synonyms": [
+          "Disease",
+          "Disease or Disorder",
+          "Disease or Disorder, Non-Neoplastic",
+          "Diseases",
+          "Diseases and Disorders",
+          "Disorder",
+          "Disorders",
+          "condition",
+          "disease",
+          "disease term",
+          "disease_term",
+          "disorder"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C96413",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C2934"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Brain Disorder",
+        "preferred_name": "Brain Disorder",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": []
+      },
+      {
+        "nci_thesaurus_concept_id": "C3263",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C3262"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Neoplasm by Site",
+        "preferred_name": "Neoplasm by Site",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": []
+      },
+      {
+        "nci_thesaurus_concept_id": "C3268",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C3263",
+          "C26835"
+        ],
+        "lead_disease_indicator": "YES",
+        "display_name": "Nervous System Tumor",
+        "preferred_name": "Nervous System Neoplasm",
+        "type": [
+          "maintype"
+        ],
+        "synonyms": [
+          "Neoplasm of Nervous System",
+          "Neoplasm of the Nervous System",
+          "Nervous System Neoplasm",
+          "Nervous System Neoplasms",
+          "Nervous System Tumour",
+          "Tumor of Nervous System",
+          "Tumor of the Nervous System"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C2907",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C96413",
+          "C4953"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Brain Tumor",
+        "preferred_name": "Brain Neoplasm",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": [
+          "Brain Neoplasm",
+          "Brain Neoplasms",
+          "Neoplasm of Brain",
+          "Neoplasm of the Brain",
+          "Tumor of Brain",
+          "Tumor of the Brain",
+          "brain tumor"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C7057",
+        "inclusion_indicator": "TREE",
+        "parents": [],
+        "lead_disease_indicator": "NO",
+        "display_name": "Disease, Disorder or Finding",
+        "preferred_name": "Disease, Disorder or Finding",
+        "type": [],
+        "synonyms": []
+      },
+      {
+        "nci_thesaurus_concept_id": "C2991",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C7057"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Other Disease",
+        "preferred_name": "Disease or Disorder",
+        "type": [
+          "maintype"
+        ],
+        "synonyms": [
+          "Disease",
+          "Disease or Disorder",
+          "Disease or Disorder, Non-Neoplastic",
+          "Diseases",
+          "Diseases and Disorders",
+          "Disorder",
+          "Disorders",
+          "condition",
+          "disease",
+          "disease term",
+          "disease_term",
+          "disorder"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C3262",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C2991"
+        ],
+        "lead_disease_indicator": "YES",
+        "display_name": "Other Neoplasm",
+        "preferred_name": "Neoplasm",
+        "type": [
+          "maintype"
+        ],
+        "synonyms": [
+          "Neoplasia",
+          "Neoplasm",
+          "Neoplasm, NOS",
+          "Neoplasms, NOS",
+          "Neoplastic Disease",
+          "Neoplastic Growth",
+          "Tumor, NOS",
+          "neoplasia",
+          "neoplasm",
+          "tumor"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C7062",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C3262"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Neoplasm by Special Category",
+        "preferred_name": "Neoplasm by Special Category",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": []
+      },
+      {
+        "nci_thesaurus_concept_id": "C27551",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C2991"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Disorder by Site",
+        "preferred_name": "Disorder by Site",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": [
+          "Disease by Site"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C4953",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C9293"
+        ],
+        "lead_disease_indicator": "YES",
+        "display_name": "Intracranial Neoplasm",
+        "preferred_name": "Intracranial Neoplasm",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": [
+          "Intracranial Central Nervous System Neoplasm",
+          "Intracranial Central Nervous System Tumor",
+          "Intracranial Tumor",
+          "intracranial tumor"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C3262",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C2991"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Other Neoplasm",
+        "preferred_name": "Neoplasm",
+        "type": [
+          "maintype"
+        ],
+        "synonyms": [
+          "Neoplasia",
+          "Neoplasm",
+          "Neoplasm, NOS",
+          "Neoplasms, NOS",
+          "Neoplastic Disease",
+          "Neoplastic Growth",
+          "Tumor, NOS",
+          "neoplasia",
+          "neoplasm",
+          "tumor"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C26835",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C27551"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Nervous System Disorder",
+        "preferred_name": "Nervous System Disorder",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": [
+          "Disorder of Nervous System",
+          "Neurologic Disorder",
+          "Neurological Disorder",
+          "Unspecified Nervous System Problem"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C102871",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C9293"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Primary Central Nervous System Neoplasm",
+        "preferred_name": "Primary Central Nervous System Neoplasm",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": [
+          "CNS primary tumor, NOS"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C2934",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C26835"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Central Nervous System Disorder",
+        "preferred_name": "Central Nervous System Disorder",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": [
+          "Central Nervous System Disease",
+          "Disorder of Central Nervous System"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C4953",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C9293"
+        ],
+        "lead_disease_indicator": "NO",
+        "display_name": "Intracranial Neoplasm",
+        "preferred_name": "Intracranial Neoplasm",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": [
+          "Intracranial Central Nervous System Neoplasm",
+          "Intracranial Central Nervous System Tumor",
+          "Intracranial Tumor",
+          "intracranial tumor"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C27551",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C2991"
+        ],
+        "lead_disease_indicator": "YES",
+        "display_name": "Disorder by Site",
+        "preferred_name": "Disorder by Site",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": [
+          "Disease by Site"
+        ]
+      },
+      {
+        "nci_thesaurus_concept_id": "C3263",
+        "inclusion_indicator": "TREE",
+        "parents": [
+          "C3262"
+        ],
+        "lead_disease_indicator": "YES",
+        "display_name": "Neoplasm by Site",
+        "preferred_name": "Neoplasm by Site",
+        "type": [
+          "subtype"
+        ],
+        "synonyms": []
       }
-    ]
-  },
-  {
-    "6": [
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT04310007"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT01220583"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02008383"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03258554"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT01570998"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT02004275"
-      },
-      {
-        "nct_id": "NCT03550391"
-      },
-      {
-        "nct_id": "NCT03269994"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03137771"
-      },
-      {
-        "nct_id": "NCT04155034"
-      },
-      {
-        "nct_id": "NCT03996265"
-      },
-      {
-        "nct_id": "NCT03578081"
-      },
-      {
-        "nct_id": "NCT03233191"
-      },
-      {
-        "nct_id": "NCT02194738"
-      },
-      {
-        "nct_id": "NCT03115333"
-      },
-      {
-        "nct_id": "NCT04239573"
-      },
-      {
-        "nct_id": "NCT03516942"
-      },
-      {
-        "nct_id": "NCT03609021"
-      },
-      {
-        "nct_id": "NCT00967239"
-      },
-      {
-        "nct_id": "NCT02730039"
-      },
-      {
-        "nct_id": "NCT04387656"
-      },
-      {
-        "nct_id": "NCT04242095"
-      },
-      {
-        "nct_id": "NCT03939481"
-      },
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT04310007"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT01220583"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02008383"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03258554"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT01570998"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT02004275"
-      },
-      {
-        "nct_id": "NCT03550391"
-      },
-      {
-        "nct_id": "NCT03269994"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03137771"
-      },
-      {
-        "nct_id": "NCT04155034"
-      },
-      {
-        "nct_id": "NCT03996265"
-      },
-      {
-        "nct_id": "NCT03578081"
-      },
-      {
-        "nct_id": "NCT03233191"
-      },
-      {
-        "nct_id": "NCT02194738"
-      },
-      {
-        "nct_id": "NCT03115333"
-      },
-      {
-        "nct_id": "NCT04239573"
-      },
-      {
-        "nct_id": "NCT03516942"
-      },
-      {
-        "nct_id": "NCT03609021"
-      },
-      {
-        "nct_id": "NCT00967239"
-      },
-      {
-        "nct_id": "NCT02730039"
-      },
-      {
-        "nct_id": "NCT04387656"
-      },
-      {
-        "nct_id": "NCT04242095"
-      },
-      {
-        "nct_id": "NCT03939481"
-      },
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT04310007"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT01220583"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02008383"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03258554"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT01570998"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT02004275"
-      },
-      {
-        "nct_id": "NCT03550391"
-      },
-      {
-        "nct_id": "NCT03269994"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03137771"
-      },
-      {
-        "nct_id": "NCT04155034"
-      },
-      {
-        "nct_id": "NCT03996265"
-      },
-      {
-        "nct_id": "NCT03578081"
-      },
-      {
-        "nct_id": "NCT03233191"
-      },
-      {
-        "nct_id": "NCT02194738"
-      },
-      {
-        "nct_id": "NCT03115333"
-      },
-      {
-        "nct_id": "NCT04239573"
-      },
-      {
-        "nct_id": "NCT03516942"
-      },
-      {
-        "nct_id": "NCT03609021"
-      },
-      {
-        "nct_id": "NCT00967239"
-      },
-      {
-        "nct_id": "NCT02730039"
-      },
-      {
-        "nct_id": "NCT04387656"
-      },
-      {
-        "nct_id": "NCT04242095"
-      },
-      {
-        "nct_id": "NCT03939481"
-      },
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT04310007"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT01220583"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02008383"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03258554"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT01570998"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT02004275"
-      },
-      {
-        "nct_id": "NCT03550391"
-      },
-      {
-        "nct_id": "NCT03269994"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03137771"
-      },
-      {
-        "nct_id": "NCT04155034"
-      },
-      {
-        "nct_id": "NCT03996265"
-      },
-      {
-        "nct_id": "NCT03578081"
-      },
-      {
-        "nct_id": "NCT03233191"
-      },
-      {
-        "nct_id": "NCT02194738"
-      },
-      {
-        "nct_id": "NCT03115333"
-      },
-      {
-        "nct_id": "NCT04239573"
-      },
-      {
-        "nct_id": "NCT03516942"
-      },
-      {
-        "nct_id": "NCT03609021"
-      },
-      {
-        "nct_id": "NCT00967239"
-      },
-      {
-        "nct_id": "NCT02730039"
-      },
-      {
-        "nct_id": "NCT04387656"
-      },
-      {
-        "nct_id": "NCT04242095"
-      },
-      {
-        "nct_id": "NCT03939481"
-      }
-    ]
-  },
-  {
-    "7": []
-  },
-  {
-    "8": [
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03419234"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT04092283"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT02734537"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03997370"
-      },
-      {
-        "nct_id": "NCT03678025"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03775265"
-      },
-      {
-        "nct_id": "NCT03574571"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT04115631"
-      },
-      {
-        "nct_id": "NCT03811002"
-      },
-      {
-        "nct_id": "NCT03267433"
-      },
-      {
-        "nct_id": "NCT03952585"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03419234"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT04092283"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT02734537"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03997370"
-      },
-      {
-        "nct_id": "NCT03678025"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03775265"
-      },
-      {
-        "nct_id": "NCT03574571"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT04115631"
-      },
-      {
-        "nct_id": "NCT03811002"
-      },
-      {
-        "nct_id": "NCT03267433"
-      },
-      {
-        "nct_id": "NCT03952585"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03419234"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT04092283"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT02734537"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03997370"
-      },
-      {
-        "nct_id": "NCT03678025"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03775265"
-      },
-      {
-        "nct_id": "NCT03574571"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT04115631"
-      },
-      {
-        "nct_id": "NCT03811002"
-      },
-      {
-        "nct_id": "NCT03267433"
-      },
-      {
-        "nct_id": "NCT03952585"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03419234"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT04092283"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT02734537"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03997370"
-      },
-      {
-        "nct_id": "NCT03678025"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03775265"
-      },
-      {
-        "nct_id": "NCT03574571"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03712605"
-      },
-      {
-        "nct_id": "NCT04115631"
-      },
-      {
-        "nct_id": "NCT03811002"
-      },
-      {
-        "nct_id": "NCT03267433"
-      },
-      {
-        "nct_id": "NCT03952585"
-      }
-    ]
-  },
-  {
-    "9": [
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT03811015"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03654768"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT04095364"
-      },
-      {
-        "nct_id": "NCT04092283"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT04115631"
-      },
-      {
-        "nct_id": "NCT02734537"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03994796"
-      },
-      {
-        "nct_id": "NCT04175912"
-      },
-      {
-        "nct_id": "NCT04205968"
-      },
-      {
-        "nct_id": "NCT01896999"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03694002"
-      },
-      {
-        "nct_id": "NCT03516279"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT04267848"
-      },
-      {
-        "nct_id": "NCT02466971"
-      },
-      {
-        "nct_id": "NCT03811002"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT03811015"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03654768"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT04095364"
-      },
-      {
-        "nct_id": "NCT04092283"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT04115631"
-      },
-      {
-        "nct_id": "NCT02734537"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03994796"
-      },
-      {
-        "nct_id": "NCT04175912"
-      },
-      {
-        "nct_id": "NCT04205968"
-      },
-      {
-        "nct_id": "NCT01896999"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03694002"
-      },
-      {
-        "nct_id": "NCT03516279"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT04267848"
-      },
-      {
-        "nct_id": "NCT02466971"
-      },
-      {
-        "nct_id": "NCT03811002"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT03811015"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03654768"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT04095364"
-      },
-      {
-        "nct_id": "NCT04092283"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT04115631"
-      },
-      {
-        "nct_id": "NCT02734537"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03994796"
-      },
-      {
-        "nct_id": "NCT04175912"
-      },
-      {
-        "nct_id": "NCT04205968"
-      },
-      {
-        "nct_id": "NCT01896999"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03694002"
-      },
-      {
-        "nct_id": "NCT03516279"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT04267848"
-      },
-      {
-        "nct_id": "NCT02466971"
-      },
-      {
-        "nct_id": "NCT03811002"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT03698019"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT03365882"
-      },
-      {
-        "nct_id": "NCT03793166"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT03033576"
-      },
-      {
-        "nct_id": "NCT03984448"
-      },
-      {
-        "nct_id": "NCT03811015"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT03866382"
-      },
-      {
-        "nct_id": "NCT04071457"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03654768"
-      },
-      {
-        "nct_id": "NCT03737994"
-      },
-      {
-        "nct_id": "NCT04095364"
-      },
-      {
-        "nct_id": "NCT04092283"
-      },
-      {
-        "nct_id": "NCT04266249"
-      },
-      {
-        "nct_id": "NCT04115631"
-      },
-      {
-        "nct_id": "NCT02734537"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT03994796"
-      },
-      {
-        "nct_id": "NCT04175912"
-      },
-      {
-        "nct_id": "NCT04205968"
-      },
-      {
-        "nct_id": "NCT01896999"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03694002"
-      },
-      {
-        "nct_id": "NCT03516279"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT04267848"
-      },
-      {
-        "nct_id": "NCT02466971"
-      },
-      {
-        "nct_id": "NCT03811002"
-      },
-      {
-        "nct_id": "NCT01872975"
-      }
-    ]
-  },
-  {
-    "10": [
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT04095364"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT03267433"
-      },
-      {
-        "nct_id": "NCT02502266"
-      },
-      {
-        "nct_id": "NCT03137771"
-      },
-      {
-        "nct_id": "NCT03258554"
-      },
-      {
-        "nct_id": "NCT02443077"
-      },
-      {
-        "nct_id": "NCT00980954"
-      },
-      {
-        "nct_id": "NCT00492778"
-      },
-      {
-        "nct_id": "NCT02466971"
-      },
-      {
-        "nct_id": "NCT04034927"
-      },
-      {
-        "nct_id": "NCT03077828"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT04155034"
-      },
-      {
-        "nct_id": "NCT03550391"
-      },
-      {
-        "nct_id": "NCT02179086"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03488693"
-      },
-      {
-        "nct_id": "NCT04114981"
-      },
-      {
-        "nct_id": "NCT02008383"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03516279"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT04095364"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT03267433"
-      },
-      {
-        "nct_id": "NCT02502266"
-      },
-      {
-        "nct_id": "NCT03137771"
-      },
-      {
-        "nct_id": "NCT03258554"
-      },
-      {
-        "nct_id": "NCT02443077"
-      },
-      {
-        "nct_id": "NCT00980954"
-      },
-      {
-        "nct_id": "NCT00492778"
-      },
-      {
-        "nct_id": "NCT02466971"
-      },
-      {
-        "nct_id": "NCT04034927"
-      },
-      {
-        "nct_id": "NCT03077828"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT04155034"
-      },
-      {
-        "nct_id": "NCT03550391"
-      },
-      {
-        "nct_id": "NCT02179086"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03488693"
-      },
-      {
-        "nct_id": "NCT04114981"
-      },
-      {
-        "nct_id": "NCT02008383"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03516279"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT04095364"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT03267433"
-      },
-      {
-        "nct_id": "NCT02502266"
-      },
-      {
-        "nct_id": "NCT03137771"
-      },
-      {
-        "nct_id": "NCT03258554"
-      },
-      {
-        "nct_id": "NCT02443077"
-      },
-      {
-        "nct_id": "NCT00980954"
-      },
-      {
-        "nct_id": "NCT00492778"
-      },
-      {
-        "nct_id": "NCT02466971"
-      },
-      {
-        "nct_id": "NCT04034927"
-      },
-      {
-        "nct_id": "NCT03077828"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT04155034"
-      },
-      {
-        "nct_id": "NCT03550391"
-      },
-      {
-        "nct_id": "NCT02179086"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03488693"
-      },
-      {
-        "nct_id": "NCT04114981"
-      },
-      {
-        "nct_id": "NCT02008383"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03516279"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT04166318"
-      },
-      {
-        "nct_id": "NCT02750826"
-      },
-      {
-        "nct_id": "NCT02927249"
-      },
-      {
-        "nct_id": "NCT02445391"
-      },
-      {
-        "nct_id": "NCT02954874"
-      },
-      {
-        "nct_id": "NCT02912559"
-      },
-      {
-        "nct_id": "NCT02201992"
-      },
-      {
-        "nct_id": "NCT02465060"
-      },
-      {
-        "nct_id": "NCT02488967"
-      },
-      {
-        "nct_id": "NCT03793179"
-      },
-      {
-        "nct_id": "NCT01901094"
-      },
-      {
-        "nct_id": "NCT03701282"
-      },
-      {
-        "nct_id": "NCT02224781"
-      },
-      {
-        "nct_id": "NCT01872975"
-      },
-      {
-        "nct_id": "NCT03971474"
-      },
-      {
-        "nct_id": "NCT03067181"
-      },
-      {
-        "nct_id": "NCT04095364"
-      },
-      {
-        "nct_id": "NCT03845296"
-      },
-      {
-        "nct_id": "NCT03267433"
-      },
-      {
-        "nct_id": "NCT02502266"
-      },
-      {
-        "nct_id": "NCT03137771"
-      },
-      {
-        "nct_id": "NCT03258554"
-      },
-      {
-        "nct_id": "NCT02443077"
-      },
-      {
-        "nct_id": "NCT00980954"
-      },
-      {
-        "nct_id": "NCT00492778"
-      },
-      {
-        "nct_id": "NCT02466971"
-      },
-      {
-        "nct_id": "NCT04034927"
-      },
-      {
-        "nct_id": "NCT03077828"
-      },
-      {
-        "nct_id": "NCT03244384"
-      },
-      {
-        "nct_id": "NCT04094688"
-      },
-      {
-        "nct_id": "NCT04068103"
-      },
-      {
-        "nct_id": "NCT03937635"
-      },
-      {
-        "nct_id": "NCT03269669"
-      },
-      {
-        "nct_id": "NCT04155034"
-      },
-      {
-        "nct_id": "NCT03550391"
-      },
-      {
-        "nct_id": "NCT02179086"
-      },
-      {
-        "nct_id": "NCT03199885"
-      },
-      {
-        "nct_id": "NCT03488693"
-      },
-      {
-        "nct_id": "NCT04114981"
-      },
-      {
-        "nct_id": "NCT02008383"
-      },
-      {
-        "nct_id": "NCT03907488"
-      },
-      {
-        "nct_id": "NCT02834013"
-      },
-      {
-        "nct_id": "NCT03233711"
-      },
-      {
-        "nct_id": "NCT03055013"
-      },
-      {
-        "nct_id": "NCT03609216"
-      },
-      {
-        "nct_id": "NCT03516279"
-      },
-      {
-        "nct_id": "NCT03595124"
-      },
-      {
-        "nct_id": "NCT03091660"
-      },
-      {
-        "nct_id": "NCT03768414"
-      },
-      {
-        "nct_id": "NCT02595424"
-      },
-      {
-        "nct_id": "NCT04166318"
+    ],
+    "biomarkers": null,
+    "minimum_target_accrual_number": 71,
+    "eligibility": {
+      "structured": {
+        "gender": "BOTH",
+        "max_age": "16 Years",
+        "max_age_number": 16,
+        "max_age_unit": "Years",
+        "min_age": "6 Years",
+        "min_age_number": 6,
+        "min_age_unit": "Years",
+        "max_age_in_years": 16,
+        "min_age_in_years": 6
+      },
+      "unstructured": [
+        {
+          "display_order": 1,
+          "inclusion_indicator": true,
+          "description": "Patient must be newly diagnosed or relapsed/progressed with a brain tumor that has not previously been treated with CRT\r\n* Note: COG therapeutic study participation is not required for ACCL10P1 enrollment"
+        },
+        {
+          "display_order": 2,
+          "inclusion_indicator": true,
+          "description": "Patient enrollment must occur within 4 calendar months following completion of CRT\r\n* Reminder: after patient enrollment, baseline testing followed by randomization must occur within 2-4 months after completion of CRT"
+        },
+        {
+          "display_order": 3,
+          "inclusion_indicator": true,
+          "description": "The patient must have an identified caregiver who is willing and able to oversee the training practice during the intervention period (ie, for 5-9 weeks starting approximately 3 months after completion of CRT)"
+        },
+        {
+          "display_order": 4,
+          "inclusion_indicator": true,
+          "description": "The patient must have access to a telephone and phone number where they can be reached"
+        },
+        {
+          "display_order": 5,
+          "inclusion_indicator": true,
+          "description": "The patient and caregiver must have reading, speaking and listening comprehension of English"
+        },
+        {
+          "display_order": 6,
+          "inclusion_indicator": false,
+          "description": "Patients with pontine glioma are not eligible"
+        },
+        {
+          "display_order": 7,
+          "inclusion_indicator": false,
+          "description": "Patients with an estimated survival of less than one year are not eligible"
+        },
+        {
+          "display_order": 8,
+          "inclusion_indicator": false,
+          "description": "Patients with a history of traumatic brain injury prior to tumor diagnosis are not eligible"
+        },
+        {
+          "display_order": 9,
+          "inclusion_indicator": false,
+          "description": "Patients with a motor, visual, or auditory handicap that prevents computer use (e.g., unresolved posterior fossa syndrome) are not eligible to participate in this trial"
+        },
+        {
+          "display_order": 10,
+          "inclusion_indicator": false,
+          "description": "Patients with full-scale intelligence quotient (IQ) < 70 per previous testing OR existing diagnosis of/educational classification as a student with an intellectual disability are not eligible"
+        },
+        {
+          "display_order": 11,
+          "inclusion_indicator": true,
+          "description": "All patients and/or their parents or legal guardians must sign a written informed consent (patient assent is also recommended when applicable according to each institution\u2019s policy)"
+        },
+        {
+          "display_order": 12,
+          "inclusion_indicator": true,
+          "description": "All institutional, Food and Drug Administration (FDA), and National Cancer Institute (NCI) requirements for human studies must be met"
+        }
+      ]
+    },
+    "number_of_arms": 2,
+    "arms": [
+      {
+        "arm_name": "Arm II (non-adaptive training program)",
+        "arm_type": "EXPERIMENTAL",
+        "arm_description": "Patients undergo a home-based, computerized, interactive, non-adaptive training program comprising 3-5 sessions of 15-45 minutes a week for 5-9 weeks. Each patient also has an interventional coach as in arm I. Patients in both arms complete a brief neuropsychological/behavioral assessment comprising the WIS-IV, the CMS, and the CVLT-C at baseline, after completion of study, and at 6 months after completion of study. Additionally, parents complete a parent-report questionnaire to gather information about patient's behaviors, thoughts, emotions, adaptive skills, and social and functional impairment. Parents and children also complete surveys about the program regarding technical feasibility, adherence, ease-of-use, and satisfaction.",
+        "interventions": [
+          {
+            "intervention_name": "Computer-Assisted Cognitive Training",
+            "intervention_type": "Other",
+            "intervention_code": "C116532",
+            "intervention_description": null,
+            "parents": [
+              "C17705"
+            ],
+            "inclusion_indicator": "TRIAL",
+            "synonyms": [],
+            "intervention_category": "Other"
+          },
+          {
+            "intervention_name": "Questionnaire Administration",
+            "intervention_type": "Other",
+            "intervention_code": "C64253",
+            "intervention_description": null,
+            "parents": [
+              "C64255"
+            ],
+            "inclusion_indicator": "TRIAL",
+            "synonyms": [],
+            "intervention_category": "Other"
+          },
+          {
+            "intervention_name": "Cognitive Assessment",
+            "intervention_type": "Procedure / Surgery",
+            "intervention_code": "C62736",
+            "intervention_description": null,
+            "parents": [
+              "C25305"
+            ],
+            "inclusion_indicator": "TRIAL",
+            "synonyms": [],
+            "intervention_category": "Other"
+          },
+          {
+            "intervention_name": "Psychosocial Assessment and Care",
+            "intervention_type": "Procedure / Surgery",
+            "intervention_code": "C15514",
+            "intervention_description": null,
+            "parents": [
+              "C15747"
+            ],
+            "inclusion_indicator": "TRIAL",
+            "synonyms": [
+              "Psychosocial Care / Assessment"
+            ],
+            "intervention_category": "Other"
+          },
+          {
+            "intervention_name": "Quality-of-Life Assessment",
+            "intervention_type": "Other",
+            "intervention_code": "C15584",
+            "intervention_description": null,
+            "parents": [
+              "C15747"
+            ],
+            "inclusion_indicator": "TRIAL",
+            "synonyms": [
+              "Quality of Life Assessment"
+            ],
+            "intervention_category": "Other"
+          },
+          {
+            "intervention_code": "C17705",
+            "intervention_name": "Training",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Other",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C51306"
+            ],
+            "synonyms": [
+              "Training Programs"
+            ]
+          },
+          {
+            "intervention_code": "C51306",
+            "intervention_name": "Educational Activity",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Other",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C43431"
+            ],
+            "synonyms": []
+          },
+          {
+            "intervention_code": "C43431",
+            "intervention_name": "Activity",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Other",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [],
+            "synonyms": [
+              "Activity",
+              "General activity"
+            ]
+          },
+          {
+            "intervention_code": "C64255",
+            "intervention_name": "Informational Intervention",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Other",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C63474"
+            ],
+            "synonyms": []
+          },
+          {
+            "intervention_code": "C63474",
+            "intervention_name": "Behavioral, Psychological or Informational Intervention",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Other",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C25218"
+            ],
+            "synonyms": []
+          },
+          {
+            "intervention_code": "C25218",
+            "intervention_name": "Intervention or Procedure",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Other",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C16203"
+            ],
+            "synonyms": [
+              "Intervention",
+              "Intervention Strategies",
+              "Procedure"
+            ]
+          },
+          {
+            "intervention_code": "C16203",
+            "intervention_name": "Clinical or Research Activity",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Other",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C43431"
+            ],
+            "synonyms": []
+          },
+          {
+            "intervention_code": "C25305",
+            "intervention_name": "Medical Examination",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Procedure / Surgery",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C18020"
+            ],
+            "synonyms": [
+              "Exam",
+              "Examination",
+              "Medical Assessment",
+              "Medical Exam",
+              "Medical Inspection"
+            ]
+          },
+          {
+            "intervention_code": "C18020",
+            "intervention_name": "Diagnostic Procedure",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Procedure / Surgery",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C25218"
+            ],
+            "synonyms": [
+              "Diagnostic Method",
+              "Diagnostic Technique",
+              "Diagnostic Test"
+            ]
+          },
+          {
+            "intervention_code": "C15747",
+            "intervention_name": "Supportive Care",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Procedure / Surgery",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C49236"
+            ],
+            "synonyms": [
+              "Supportive Therapy",
+              "Symptom Management",
+              "Therapy, Supportive"
+            ]
+          },
+          {
+            "intervention_code": "C49236",
+            "intervention_name": "Therapeutic Procedure",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Procedure / Surgery",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C25218"
+            ],
+            "synonyms": [
+              "TX",
+              "Therapeutic Interventions",
+              "Therapeutic Method",
+              "Therapeutic Procedure",
+              "Therapeutic Technique",
+              "Therapy",
+              "Treatment"
+            ]
+          }
+        ]
+      },
+      {
+        "arm_name": "Arm I (interactive training program)",
+        "arm_type": "EXPERIMENTAL",
+        "arm_description": "Patients undergo a home-based, computerized, interactive training program comprising 3-5 sessions of 15-45 minutes every week for 5-9 weeks. The program contains twelve visually engaging and interesting exercises that target skills involving visual-spatial and verbal WM. The program is adaptive in a way that each difficulty task is automatically adjusted on a trial-by-trail basis to match a patient\u2019s current WM. Each patient has an interventional coach who has online access to patient's training sessions and outcomes (pass or fail). Coaches are able to modify the training sequence or make suggestions to patients and/or parents about how progress can be maximized. Coaches also have telephone meetings with patients and/or families once a week to ensure compliance, track progress, provide feedback, and answer questions that arise during training.",
+        "interventions": [
+          {
+            "intervention_name": "Computer-Assisted Cognitive Training",
+            "intervention_type": "Other",
+            "intervention_code": "C116532",
+            "intervention_description": null,
+            "inclusion_indicator": "TRIAL",
+            "synonyms": [],
+            "intervention_category": "Other",
+            "parents": [
+              "C17705"
+            ]
+          },
+          {
+            "intervention_name": "Questionnaire Administration",
+            "intervention_type": "Other",
+            "intervention_code": "C64253",
+            "intervention_description": null,
+            "inclusion_indicator": "TRIAL",
+            "synonyms": [],
+            "intervention_category": "Other",
+            "parents": [
+              "C64255"
+            ]
+          },
+          {
+            "intervention_name": "Cognitive Assessment",
+            "intervention_type": "Procedure / Surgery",
+            "intervention_code": "C62736",
+            "intervention_description": null,
+            "inclusion_indicator": "TRIAL",
+            "synonyms": [],
+            "intervention_category": "Other",
+            "parents": [
+              "C25305"
+            ]
+          },
+          {
+            "intervention_name": "Psychosocial Assessment and Care",
+            "intervention_type": "Procedure / Surgery",
+            "intervention_code": "C15514",
+            "intervention_description": null,
+            "inclusion_indicator": "TRIAL",
+            "synonyms": [
+              "Psychosocial Care / Assessment"
+            ],
+            "intervention_category": "Other",
+            "parents": [
+              "C15747"
+            ]
+          },
+          {
+            "intervention_name": "Quality-of-Life Assessment",
+            "intervention_type": "Other",
+            "intervention_code": "C15584",
+            "intervention_description": null,
+            "inclusion_indicator": "TRIAL",
+            "synonyms": [
+              "Quality of Life Assessment"
+            ],
+            "intervention_category": "Other",
+            "parents": [
+              "C15747"
+            ]
+          },
+          {
+            "intervention_code": "C17705",
+            "intervention_name": "Training",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Other",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C51306"
+            ],
+            "synonyms": [
+              "Training Programs"
+            ]
+          },
+          {
+            "intervention_code": "C51306",
+            "intervention_name": "Educational Activity",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Other",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C43431"
+            ],
+            "synonyms": []
+          },
+          {
+            "intervention_code": "C43431",
+            "intervention_name": "Activity",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Other",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [],
+            "synonyms": [
+              "Activity",
+              "General activity"
+            ]
+          },
+          {
+            "intervention_code": "C64255",
+            "intervention_name": "Informational Intervention",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Other",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C63474"
+            ],
+            "synonyms": []
+          },
+          {
+            "intervention_code": "C63474",
+            "intervention_name": "Behavioral, Psychological or Informational Intervention",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Other",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C25218"
+            ],
+            "synonyms": []
+          },
+          {
+            "intervention_code": "C25218",
+            "intervention_name": "Intervention or Procedure",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Other",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C16203"
+            ],
+            "synonyms": [
+              "Intervention",
+              "Intervention Strategies",
+              "Procedure"
+            ]
+          },
+          {
+            "intervention_code": "C16203",
+            "intervention_name": "Clinical or Research Activity",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Other",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C43431"
+            ],
+            "synonyms": []
+          },
+          {
+            "intervention_code": "C25305",
+            "intervention_name": "Medical Examination",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Procedure / Surgery",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C18020"
+            ],
+            "synonyms": [
+              "Exam",
+              "Examination",
+              "Medical Assessment",
+              "Medical Exam",
+              "Medical Inspection"
+            ]
+          },
+          {
+            "intervention_code": "C18020",
+            "intervention_name": "Diagnostic Procedure",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Procedure / Surgery",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C25218"
+            ],
+            "synonyms": [
+              "Diagnostic Method",
+              "Diagnostic Technique",
+              "Diagnostic Test"
+            ]
+          },
+          {
+            "intervention_code": "C15747",
+            "intervention_name": "Supportive Care",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Procedure / Surgery",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C49236"
+            ],
+            "synonyms": [
+              "Supportive Therapy",
+              "Symptom Management",
+              "Therapy, Supportive"
+            ]
+          },
+          {
+            "intervention_code": "C49236",
+            "intervention_name": "Therapeutic Procedure",
+            "inclusion_indicator": "TREE",
+            "intervention_type": "Procedure / Surgery",
+            "intervention_description": "",
+            "intervention_category": "NONE",
+            "parents": [
+              "C25218"
+            ],
+            "synonyms": [
+              "TX",
+              "Therapeutic Interventions",
+              "Therapeutic Method",
+              "Therapeutic Procedure",
+              "Therapeutic Technique",
+              "Therapy",
+              "Treatment"
+            ]
+          }
+        ]
       }
     ]
   }
