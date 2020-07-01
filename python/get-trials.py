@@ -34,7 +34,7 @@ def get_clinical_trials(age, gender, postal_code, distance):
     #trials list 
     trials = []
 
-    url = "https://clinicaltrialsapi.cancer.gov/v1/clinical-trials?size=" + str(results_size) + "&from=" + str(results_idx) + "&include=nct_id&include=eligibility&current_trial_status=Active&eligibility.structured.gender=BOTH&eligibility.structured.gender=" + gender + "&eligibility.structured.max_age_in_years_gte=" + age + "&eligibility.structured.min_age_in_years_lte=" + age + "&sites.org_coordinates_lat=" + str(coordinates["latitude"]) + "&sites.org_coordinates_lon=" + str(coordinates["longitude"]) + "&sites.org_coordinates_dist=" + distance
+    url = "https://clinicaltrialsapi.cancer.gov/v1/clinical-trials?size=" + str(results_size) + "&from=" + str(results_idx) + "&include=nct_id&include=eligibility&include=phase&include=diseases&include=arms&current_trial_status=Active&eligibility.structured.gender=BOTH&eligibility.structured.gender=" + gender + "&eligibility.structured.max_age_in_years_gte=" + age + "&eligibility.structured.min_age_in_years_lte=" + age + "&sites.org_coordinates_lat=" + str(coordinates["latitude"]) + "&sites.org_coordinates_lon=" + str(coordinates["longitude"]) + "&sites.org_coordinates_dist=" + distance
 
     #get the total results count and first 50 records
     response = requests.get(url, headers=api_header)
