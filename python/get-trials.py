@@ -58,7 +58,7 @@ def get_clinical_trials(age, gender, postal_code, distance):
 api_header = {'accept': 'application/json'}
 
 #Import the participates data
-participants_file = "../datasets/participants_clean.csv"
+participants_file = "../datasets/participants_small.csv"
 participants = import_csv_data(participants_file)
 
 distance = '100mi'
@@ -67,7 +67,7 @@ participant_trials = []
 #Get intial list trials for each participant that meet the basic eligbility requirements 
 for item in participants:
     results = {}
-    results = {item['ID']: get_clinical_trials(item['AGE'], item['Gender'], item['Synthetic Zip Code'], distance)}
+    results = {item['particpant_id']: get_clinical_trials(item['age'], item['gender'], item['zipcode'], distance)}
     participant_trials.append(results)
 
 

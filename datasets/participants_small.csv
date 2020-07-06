@@ -1,0 +1,2 @@
+particpant_id,cancer_site,cancer_site_code,stage,stage_code,treatment_history,treatment_history_code,gender,gender_code,age,hb,hb_code,hb_code_value,platelet,platelet_code,platelet_code_value,wbc,ps_type,ps_comparator,ps_value,ps_code,zipcode,zipcode_code,specific_treatment,specific_treatment_code,trial_type,trial_type_code
+1,Brain,C12439,Recurrent,C14173,,,FEMALE,C46110,46,8,C64848,8g/dL,"98,000",C51951,98000/uL,"3,200",ECOG,=,2,C105725,60426, C25720,,,Cancer Treatment Trial,C16096
