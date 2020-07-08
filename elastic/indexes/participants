@@ -1,0 +1,100 @@
+http://20.42.25.27/:9200/participants
+
+PUT
+
+{
+    "settings": {
+        "index": {
+            "number_of_shards": 1,
+            "number_of_replicas": 0
+        }
+    },
+    "mappings": {
+        "properties": {
+            "particpant_id": { 
+               "type": "keyword" 
+            },
+            "cancer_site": {
+               "type": "text"
+            },
+            "cancer_site_code": {
+               "type": "text"
+            },
+            "stage": {
+               "type": "text"
+            },
+            "stage_code": {
+               "type": "text"
+            },
+            "treatment_history": {
+               "type": "text"
+            },
+            "treatment_history_code": {
+               "type": "text"
+            },
+            "gender": {
+               "type": "text"
+            },
+            "gender_code": {
+               "type": "text"
+            },
+            "age": {
+               "type": "integer"
+            },
+            "hb": {
+               "type": "integer"
+            },
+            "hb_code": {
+               "type": "text"
+            },
+            "hb_code_value": {
+               "type": "text"
+            },
+            "platelet": {
+               "type": "integer"
+            },
+            "platelet_code": {
+               "type": "text"
+            },
+            "platelet_code_value": {
+               "type": "text"
+            },
+            "wbc": {
+               "type": "integer"
+            },
+            "ps_type": {
+               "type": "text"
+            },
+            "ps_comparator": {
+               "type": "text"
+            },
+            "ps_value": {
+               "type": "integer"
+            },
+            "ps_code": {
+               "type": "text"
+            },
+            "zipcode": {
+               "type": "text"
+            },
+            "zipcode_code": {
+               "type": "text"
+            },
+            "specific_treatment": {
+               "type": "text"
+            },
+            "specific_treatment_code": {
+               "type": "text"
+            },
+            "trial_type": {
+               "type": "text"
+            },
+            "trial_type_code": {
+               "type": "text"
+            },
+            "location": {
+               "type": "geo_point"
+            }
+        }
+    }
+}

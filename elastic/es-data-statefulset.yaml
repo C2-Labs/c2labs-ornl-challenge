@@ -1,0 +1,60 @@
+apiVersion: apps/v1beta1
+kind: StatefulSet
+metadata:
+  namespace: ornl
+  name: es-data
+  labels:
+    app: elasticsearch
+    role: data
+spec:
+  serviceName: es-data
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: es-data
+        role: data
+    spec:
+      containers:
+      - name: es-data
+        image: docker.elastic.co/elasticsearch/elasticsearch:7.8.0
+        env:
+        - name: CLUSTER_NAME
+          value: elasticsearch
+        - name: NODE_NAME
+          value: es-data
+        - name: NODE_LIST
+          value: es-master,es-data,es-client
+        - name: MASTER_NODES
+          value: es-master
+        - name: "ES_JAVA_OPTS"
+          value: "-Xms512m -Xmx512m"
+        ports:
+        - containerPort: 9300
+          name: transport
+        volumeMounts:
+        - name: config
+          mountPath: /usr/share/elasticsearch/config/elasticsearch.yml
+          readOnly: true
+          subPath: elasticsearch.yml
+        - name: es-data-persistent-storage
+          mountPath: /data/db
+      volumes:
+      - name: config
+        configMap:
+          name: es-data-config
+      initContainers:
+      - name: increase-vm-max-map
+        image: busybox
+        command: ["sysctl", "-w", "vm.max_map_count=262144"]
+        securityContext:
+          privileged: true
+  volumeClaimTemplates:
+  - metadata:
+      name: es-data-persistent-storage
+    spec:
+      accessModes: [ "ReadWriteOnce" ]
+      storageClassName: azure-file
+      resources:
+        requests:
+          storage: 10Gi

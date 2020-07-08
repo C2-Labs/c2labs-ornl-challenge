@@ -9,14 +9,14 @@
     "treatment_history_code": "",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "46",
-    "hb": "8",
+    "age": 46,
+    "hb": 8,
     "hb_code": "C64848",
     "hb_code_value": "8g/dL",
-    "platelet": "98,000",
+    "platelet": 98000,
     "platelet_code": "C51951",
     "platelet_code_value": "98000/uL",
-    "wbc": "3,200",
+    "wbc": 3200,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -26,7 +26,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 41.6103,
+      "lon": -87.6534
+    }
   },
   {
     "particpant_id": 2,
@@ -38,14 +42,14 @@
     "treatment_history_code": "C16171,C16169",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "69",
-    "hb": "9",
+    "age": 69,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "205,000",
+    "platelet": 205000,
     "platelet_code": "C51951",
     "platelet_code_value": "205000/uL",
-    "wbc": "3,678",
+    "wbc": 3678,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "70",
@@ -55,7 +59,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 30.1653,
+      "lon": -85.5763
+    }
   },
   {
     "particpant_id": 3,
@@ -67,14 +75,14 @@
     "treatment_history_code": "C16169",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "43",
-    "hb": "11",
+    "age": 43,
+    "hb": 11,
     "hb_code": "C64848",
     "hb_code_value": "11g/dL",
-    "platelet": "300,000",
+    "platelet": 300000,
     "platelet_code": "C51951",
     "platelet_code_value": "300000/uL",
-    "wbc": "4589",
+    "wbc": 4589,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -84,7 +92,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 28.3134,
+      "lon": -80.7319
+    }
   },
   {
     "particpant_id": 4,
@@ -96,14 +108,14 @@
     "treatment_history_code": "C16169",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "79",
-    "hb": "9",
+    "age": 79,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "265,000",
+    "platelet": 265000,
     "platelet_code": "C51951",
     "platelet_code_value": "265000/uL",
-    "wbc": "4500",
+    "wbc": 4500,
     "ps_type": "Karnofsky",
     "ps_comparator": ">",
     "ps_value": "60",
@@ -113,7 +125,11 @@
     "specific_treatment": "Chimeric Antigen Receptor T-cells",
     "specific_treatment_code": "C137999",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 37.7402,
+      "lon": -122.171
+    }
   },
   {
     "particpant_id": 5,
@@ -125,14 +141,14 @@
     "treatment_history_code": "C15477",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "65",
-    "hb": "12",
+    "age": 65,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "450,000",
+    "platelet": 450000,
     "platelet_code": "C51951",
     "platelet_code_value": "450000/uL",
-    "wbc": "6,000",
+    "wbc": 6000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -142,7 +158,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 39.7171,
+      "lon": -84.1342
+    }
   },
   {
     "particpant_id": 6,
@@ -154,14 +174,14 @@
     "treatment_history_code": "",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "54",
-    "hb": "7",
+    "age": 54,
+    "hb": 7,
     "hb_code": "C64848",
     "hb_code_value": "7g/dL",
-    "platelet": "102,000",
+    "platelet": 102000,
     "platelet_code": "C51951",
     "platelet_code_value": "102000/uL",
-    "wbc": "2,750",
+    "wbc": 2750,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "3",
@@ -171,7 +191,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 36.2951,
+      "lon": -76.2445
+    }
   },
   {
     "particpant_id": 7,
@@ -183,14 +207,14 @@
     "treatment_history_code": "C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "23",
-    "hb": "9",
+    "age": 23,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "400,000",
+    "platelet": 400000,
     "platelet_code": "C51951",
     "platelet_code_value": "400000/uL",
-    "wbc": "5600",
+    "wbc": 5600,
     "ps_type": "Zubrod",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -200,7 +224,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "",
-    "trial_type_code": ""
+    "trial_type_code": "",
+    "location": {
+      "lat": 42.1253,
+      "lon": -71.1074
+    }
   },
   {
     "particpant_id": 8,
@@ -212,14 +240,14 @@
     "treatment_history_code": "C16169",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "47",
-    "hb": "11",
+    "age": 47,
+    "hb": 11,
     "hb_code": "C64848",
     "hb_code_value": "11g/dL",
-    "platelet": "300,000",
+    "platelet": 300000,
     "platelet_code": "C51951",
     "platelet_code_value": "300000/uL",
-    "wbc": "9000",
+    "wbc": 9000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -229,7 +257,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 39.563,
+      "lon": -84.2288
+    }
   },
   {
     "particpant_id": 9,
@@ -241,14 +273,14 @@
     "treatment_history_code": "C16169,C16171",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "50",
-    "hb": "11",
+    "age": 50,
+    "hb": 11,
     "hb_code": "C64848",
     "hb_code_value": "11g/dL",
-    "platelet": "305,000",
+    "platelet": 305000,
     "platelet_code": "C51951",
     "platelet_code_value": "305000/uL",
-    "wbc": "4000",
+    "wbc": 4000,
     "ps_type": "Karnofsky",
     "ps_comparator": ">",
     "ps_value": "80",
@@ -258,7 +290,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 37.8083,
+      "lon": -85.4613
+    }
   },
   {
     "particpant_id": 10,
@@ -270,14 +306,14 @@
     "treatment_history_code": "C16171,C16169,C15477",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "47",
-    "hb": "9",
+    "age": 47,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "203,000",
+    "platelet": 203000,
     "platelet_code": "C51951",
     "platelet_code_value": "203000/uL",
-    "wbc": "6000",
+    "wbc": 6000,
     "ps_type": "Zubrod",
     "ps_comparator": "=",
     "ps_value": "3",
@@ -287,7 +323,11 @@
     "specific_treatment": "Methionine",
     "specific_treatment_code": "C29600",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 33.5251,
+      "lon": -81.9394
+    }
   },
   {
     "particpant_id": 11,
@@ -299,14 +339,14 @@
     "treatment_history_code": "",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "69",
-    "hb": "12",
+    "age": 69,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "250,000",
+    "platelet": 250000,
     "platelet_code": "C51951",
     "platelet_code_value": "250000/uL",
-    "wbc": "5,000",
+    "wbc": 5000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -316,7 +356,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 45.17,
+      "lon": -93.3819
+    }
   },
   {
     "particpant_id": 12,
@@ -328,14 +372,14 @@
     "treatment_history_code": "C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "50",
-    "hb": "9",
+    "age": 50,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "204,000",
+    "platelet": 204000,
     "platelet_code": "C51951",
     "platelet_code_value": "204000/uL",
-    "wbc": "5000",
+    "wbc": 5000,
     "ps_type": "Karnofsky",
     "ps_comparator": ">=",
     "ps_value": "80",
@@ -345,7 +389,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 43.0579,
+      "lon": -83.3332
+    }
   },
   {
     "particpant_id": 13,
@@ -357,14 +405,14 @@
     "treatment_history_code": "",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "80",
-    "hb": "9",
+    "age": 80,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "175,000",
+    "platelet": 175000,
     "platelet_code": "C51951",
     "platelet_code_value": "175000/uL",
-    "wbc": "3550",
+    "wbc": 3550,
     "ps_type": "Zubrod",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -374,7 +422,11 @@
     "specific_treatment": "Selumetinib Sulfate",
     "specific_treatment_code": "C95225",
     "trial_type": "",
-    "trial_type_code": ""
+    "trial_type_code": "",
+    "location": {
+      "lat": 41.5994,
+      "lon": -86.7077
+    }
   },
   {
     "particpant_id": 14,
@@ -386,14 +438,14 @@
     "treatment_history_code": "C16169,C16171,C15477",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "46",
-    "hb": "9",
+    "age": 46,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "130,000",
+    "platelet": 130000,
     "platelet_code": "C51951",
     "platelet_code_value": "130000/uL",
-    "wbc": "3500",
+    "wbc": 3500,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "3",
@@ -403,7 +455,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 33.9321,
+      "lon": -83.3525
+    }
   },
   {
     "particpant_id": 15,
@@ -415,14 +471,14 @@
     "treatment_history_code": "C16169,C16168",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "45",
-    "hb": "9",
+    "age": 45,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "145,000",
+    "platelet": 145000,
     "platelet_code": "C51951",
     "platelet_code_value": "145000/uL",
-    "wbc": "4000",
+    "wbc": 4000,
     "ps_type": "Karnofsky",
     "ps_comparator": ">=",
     "ps_value": "60",
@@ -432,7 +488,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 42.4291,
+      "lon": -71.0605
+    }
   },
   {
     "particpant_id": 16,
@@ -444,14 +504,14 @@
     "treatment_history_code": "C16169",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "65",
-    "hb": "8",
+    "age": 65,
+    "hb": 8,
     "hb_code": "C64848",
     "hb_code_value": "8g/dL",
-    "platelet": "150,000",
+    "platelet": 150000,
     "platelet_code": "C51951",
     "platelet_code_value": "150000/uL",
-    "wbc": "3,500",
+    "wbc": 3500,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -461,7 +521,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 40.398,
+      "lon": -74.3236
+    }
   },
   {
     "particpant_id": 17,
@@ -473,14 +537,14 @@
     "treatment_history_code": "C16124,C16039",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "45",
-    "hb": "9",
+    "age": 45,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "105,000",
+    "platelet": 105000,
     "platelet_code": "C51951",
     "platelet_code_value": "105000/uL",
-    "wbc": "3,200",
+    "wbc": 3200,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -490,7 +554,11 @@
     "specific_treatment": "Chimeric Antigen Receptor T-cells",
     "specific_treatment_code": "C137999",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 40.7667,
+      "lon": -73.8241
+    }
   },
   {
     "particpant_id": 18,
@@ -502,14 +570,14 @@
     "treatment_history_code": "C15477,C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "65",
-    "hb": "9",
+    "age": 65,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "85,000",
+    "platelet": 85000,
     "platelet_code": "C51951",
     "platelet_code_value": "85000/uL",
-    "wbc": "2550",
+    "wbc": 2550,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "3",
@@ -519,7 +587,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 34.0425,
+      "lon": -84.0262
+    }
   },
   {
     "particpant_id": 19,
@@ -531,14 +603,14 @@
     "treatment_history_code": "C16171,C15477",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "46",
-    "hb": "8",
+    "age": 46,
+    "hb": 8,
     "hb_code": "C64848",
     "hb_code_value": "8g/dL",
-    "platelet": "200,500",
+    "platelet": 200500,
     "platelet_code": "C51951",
     "platelet_code_value": "200500/uL",
-    "wbc": "4,000",
+    "wbc": 4000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -548,7 +620,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 40.9461,
+      "lon": -73.8669
+    }
   },
   {
     "particpant_id": 20,
@@ -560,14 +636,14 @@
     "treatment_history_code": "C15477,C16175",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "76",
-    "hb": "9",
+    "age": 76,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "102,000",
+    "platelet": 102000,
     "platelet_code": "C51951",
     "platelet_code_value": "102000/uL",
-    "wbc": "2990",
+    "wbc": 2990,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -577,7 +653,11 @@
     "specific_treatment": "White Button Mushroom Extract",
     "specific_treatment_code": "C78490",
     "trial_type": "Cancer Prevention Trial",
-    "trial_type_code": "C15790"
+    "trial_type_code": "C15790",
+    "location": {
+      "lat": 41.4236,
+      "lon": -87.3556
+    }
   },
   {
     "particpant_id": 21,
@@ -589,14 +669,14 @@
     "treatment_history_code": "",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "54",
-    "hb": "12",
+    "age": 54,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "450,000",
+    "platelet": 450000,
     "platelet_code": "C51951",
     "platelet_code_value": "450000/uL",
-    "wbc": "6,000",
+    "wbc": 6000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -606,7 +686,11 @@
     "specific_treatment": "Immunotherapy,gene therapy",
     "specific_treatment_code": "C15262,C15238",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 34.0557,
+      "lon": -118.0444
+    }
   },
   {
     "particpant_id": 22,
@@ -618,14 +702,14 @@
     "treatment_history_code": "",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "78",
-    "hb": "10",
+    "age": 78,
+    "hb": 10,
     "hb_code": "C64848",
     "hb_code_value": "10g/dL",
-    "platelet": "350,000",
+    "platelet": 350000,
     "platelet_code": "C51951",
     "platelet_code_value": "350000/uL",
-    "wbc": "15,000",
+    "wbc": 15000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "3",
@@ -635,7 +719,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "",
-    "trial_type_code": ""
+    "trial_type_code": "",
+    "location": {
+      "lat": 40.6588,
+      "lon": -73.8438
+    }
   },
   {
     "particpant_id": 23,
@@ -647,14 +735,14 @@
     "treatment_history_code": "",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "65",
-    "hb": "7",
+    "age": 65,
+    "hb": 7,
     "hb_code": "C64848",
     "hb_code_value": "7g/dL",
-    "platelet": "350,000",
+    "platelet": 350000,
     "platelet_code": "C51951",
     "platelet_code_value": "350000/uL",
-    "wbc": "3,000",
+    "wbc": 3000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "0",
@@ -664,7 +752,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "",
-    "trial_type_code": ""
+    "trial_type_code": "",
+    "location": {
+      "lat": 41.3286,
+      "lon": -74.1885
+    }
   },
   {
     "particpant_id": 24,
@@ -676,14 +768,14 @@
     "treatment_history_code": "C16171,C15477",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "32",
-    "hb": "12",
+    "age": 32,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "375,000",
+    "platelet": 375000,
     "platelet_code": "C51951",
     "platelet_code_value": "375000/uL",
-    "wbc": "5,000",
+    "wbc": 5000,
     "ps_type": "Karnofsky",
     "ps_comparator": ">=",
     "ps_value": "90",
@@ -693,7 +785,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 39.9296,
+      "lon": -75.3338
+    }
   },
   {
     "particpant_id": 25,
@@ -705,14 +801,14 @@
     "treatment_history_code": "C16169,C16171",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "45",
-    "hb": "9",
+    "age": 45,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "345,000",
+    "platelet": 345000,
     "platelet_code": "C51951",
     "platelet_code_value": "345000/uL",
-    "wbc": "4000",
+    "wbc": 4000,
     "ps_type": "Karnofsky",
     "ps_comparator": ">=",
     "ps_value": "70",
@@ -722,7 +818,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 41.5429,
+      "lon": -83.5927
+    }
   },
   {
     "particpant_id": 26,
@@ -734,14 +834,14 @@
     "treatment_history_code": "C16169",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "75",
-    "hb": "12",
+    "age": 75,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "350,000",
+    "platelet": 350000,
     "platelet_code": "C51951",
     "platelet_code_value": "350000/uL",
-    "wbc": "4,000",
+    "wbc": 4000,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "100",
@@ -751,7 +851,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 39.0082,
+      "lon": -84.5977
+    }
   },
   {
     "particpant_id": 27,
@@ -763,14 +867,14 @@
     "treatment_history_code": "C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "53",
-    "hb": "6",
+    "age": 53,
+    "hb": 6,
     "hb_code": "C64848",
     "hb_code_value": "6g/dL",
-    "platelet": "50,000",
+    "platelet": 50000,
     "platelet_code": "C51951",
     "platelet_code_value": "50000/uL",
-    "wbc": "20,000",
+    "wbc": 20000,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "50",
@@ -780,7 +884,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 40.7351,
+      "lon": -73.8776
+    }
   },
   {
     "particpant_id": 28,
@@ -792,14 +900,14 @@
     "treatment_history_code": "C16171,C16168",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "57",
-    "hb": "10",
+    "age": 57,
+    "hb": 10,
     "hb_code": "C64848",
     "hb_code_value": "10g/dL",
-    "platelet": "150,000",
+    "platelet": 150000,
     "platelet_code": "C51951",
     "platelet_code_value": "150000/uL",
-    "wbc": "5,000",
+    "wbc": 5000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -809,7 +917,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 40.9922,
+      "lon": -80.3284
+    }
   },
   {
     "particpant_id": 29,
@@ -821,14 +933,14 @@
     "treatment_history_code": "C16169,C16171,C16168",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "56",
-    "hb": "9",
+    "age": 56,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "75,000",
+    "platelet": 75000,
     "platelet_code": "C51951",
     "platelet_code_value": "75000/uL",
-    "wbc": "3000",
+    "wbc": 3000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -838,7 +950,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 41.46,
+      "lon": -72.8222
+    }
   },
   {
     "particpant_id": 30,
@@ -850,14 +966,14 @@
     "treatment_history_code": "C15477,C16175,C16168,C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "68",
-    "hb": "11",
+    "age": 68,
+    "hb": 11,
     "hb_code": "C64848",
     "hb_code_value": "11g/dL",
-    "platelet": "240,000",
+    "platelet": 240000,
     "platelet_code": "C51951",
     "platelet_code_value": "240000/uL",
-    "wbc": "6,000",
+    "wbc": 6000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -867,7 +983,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 39.7901,
+      "lon": -75.0367
+    }
   },
   {
     "particpant_id": 31,
@@ -879,14 +999,14 @@
     "treatment_history_code": "",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "56",
-    "hb": "9",
+    "age": 56,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "240,000",
+    "platelet": 240000,
     "platelet_code": "C51951",
     "platelet_code_value": "240000/uL",
-    "wbc": "5,400",
+    "wbc": 5400,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -896,7 +1016,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 28.5974,
+      "lon": -81.3036
+    }
   },
   {
     "particpant_id": 32,
@@ -908,14 +1032,14 @@
     "treatment_history_code": "",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "46",
-    "hb": "8",
+    "age": 46,
+    "hb": 8,
     "hb_code": "C64848",
     "hb_code_value": "8g/dL",
-    "platelet": "102,000",
+    "platelet": 102000,
     "platelet_code": "C51951",
     "platelet_code_value": "102000/uL",
-    "wbc": "4,000",
+    "wbc": 4000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -925,7 +1049,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 39.3746,
+      "lon": -76.8002
+    }
   },
   {
     "particpant_id": 33,
@@ -937,14 +1065,14 @@
     "treatment_history_code": "",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "50",
-    "hb": "9",
+    "age": 50,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "120,000",
+    "platelet": 120000,
     "platelet_code": "C51951",
     "platelet_code_value": "120000/uL",
-    "wbc": "15,000",
+    "wbc": 15000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -954,7 +1082,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 42.7851,
+      "lon": -83.7294
+    }
   },
   {
     "particpant_id": 34,
@@ -966,14 +1098,14 @@
     "treatment_history_code": "C16171,C15477",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "24",
-    "hb": "7",
+    "age": 24,
+    "hb": 7,
     "hb_code": "C64848",
     "hb_code_value": "7g/dL",
-    "platelet": "3,500",
+    "platelet": 3500,
     "platelet_code": "C51951",
     "platelet_code_value": "3500/uL",
-    "wbc": "2,990",
+    "wbc": 2990,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "3",
@@ -983,7 +1115,11 @@
     "specific_treatment": "T-cell depletion therapy",
     "specific_treatment_code": "C15699",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 40.4723,
+      "lon": -79.9132
+    }
   },
   {
     "particpant_id": 35,
@@ -995,14 +1131,14 @@
     "treatment_history_code": "C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "56",
-    "hb": "12",
+    "age": 56,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "300,000",
+    "platelet": 300000,
     "platelet_code": "C51951",
     "platelet_code_value": "300000/uL",
-    "wbc": "8,000",
+    "wbc": 8000,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "80",
@@ -1012,7 +1148,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 44.8061,
+      "lon": -93.6083
+    }
   },
   {
     "particpant_id": 36,
@@ -1024,14 +1164,14 @@
     "treatment_history_code": "",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "78",
-    "hb": "10",
+    "age": 78,
+    "hb": 10,
     "hb_code": "C64848",
     "hb_code_value": "10g/dL",
-    "platelet": "120,000",
+    "platelet": 120000,
     "platelet_code": "C51951",
     "platelet_code_value": "120000/uL",
-    "wbc": "3050",
+    "wbc": 3050,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "60",
@@ -1041,7 +1181,11 @@
     "specific_treatment": "Proton beam radiation therapy",
     "specific_treatment_code": "C66897",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 27.0606,
+      "lon": -82.352
+    }
   },
   {
     "particpant_id": 37,
@@ -1053,14 +1197,14 @@
     "treatment_history_code": "C40030",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "64",
-    "hb": "12",
+    "age": 64,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "400,000",
+    "platelet": 400000,
     "platelet_code": "C51951",
     "platelet_code_value": "400000/uL",
-    "wbc": "6,000",
+    "wbc": 6000,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "80",
@@ -1070,7 +1214,11 @@
     "specific_treatment": "Immunotherapy,Immunology",
     "specific_treatment_code": "C15262,C18011",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 42.2809,
+      "lon": -85.6863
+    }
   },
   {
     "particpant_id": 38,
@@ -1082,14 +1230,14 @@
     "treatment_history_code": "C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "35",
-    "hb": "10",
+    "age": 35,
+    "hb": 10,
     "hb_code": "C64848",
     "hb_code_value": "10g/dL",
-    "platelet": "250,000",
+    "platelet": 250000,
     "platelet_code": "C51951",
     "platelet_code_value": "250000/uL",
-    "wbc": "4000",
+    "wbc": 4000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -1099,7 +1247,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "",
-    "trial_type_code": ""
+    "trial_type_code": "",
+    "location": {
+      "lat": 42.5241,
+      "lon": -92.4497
+    }
   },
   {
     "particpant_id": 39,
@@ -1111,14 +1263,14 @@
     "treatment_history_code": "C16169,C16171,C15477",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "26",
-    "hb": "12",
+    "age": 26,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "6,000",
+    "platelet": 6000,
     "platelet_code": "C51951",
     "platelet_code_value": "6000/uL",
-    "wbc": "6,000",
+    "wbc": 6000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -1128,7 +1280,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 32.8565,
+      "lon": -96.5999
+    }
   },
   {
     "particpant_id": 40,
@@ -1140,14 +1296,14 @@
     "treatment_history_code": "C16169,C16171,C15477",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "53",
-    "hb": "12",
+    "age": 53,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "350,000",
+    "platelet": 350000,
     "platelet_code": "C51951",
     "platelet_code_value": "350000/uL",
-    "wbc": "8,000",
+    "wbc": 8000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -1157,7 +1313,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 39.9188,
+      "lon": -75.3991
+    }
   },
   {
     "particpant_id": 41,
@@ -1169,14 +1329,14 @@
     "treatment_history_code": "C16169,C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "91",
-    "hb": "12",
+    "age": 91,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "400,000",
+    "platelet": 400000,
     "platelet_code": "C51951",
     "platelet_code_value": "400000/uL",
-    "wbc": "8,000",
+    "wbc": 8000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -1186,7 +1346,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 44.8342,
+      "lon": -93.4389
+    }
   },
   {
     "particpant_id": 42,
@@ -1198,14 +1362,14 @@
     "treatment_history_code": "C16169",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "45",
-    "hb": "8",
+    "age": 45,
+    "hb": 8,
     "hb_code": "C64848",
     "hb_code_value": "8g/dL",
-    "platelet": "90,000",
+    "platelet": 90000,
     "platelet_code": "C51951",
     "platelet_code_value": "90000/uL",
-    "wbc": "2,500",
+    "wbc": 2500,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "3",
@@ -1215,7 +1379,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 39.03,
+      "lon": -84.559
+    }
   },
   {
     "particpant_id": 43,
@@ -1227,14 +1395,14 @@
     "treatment_history_code": "C16171,C16175",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "59",
-    "hb": "10",
+    "age": 59,
+    "hb": 10,
     "hb_code": "C64848",
     "hb_code_value": "10g/dL",
-    "platelet": "4,000",
+    "platelet": 4000,
     "platelet_code": "C51951",
     "platelet_code_value": "4000/uL",
-    "wbc": "3,550",
+    "wbc": 3550,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -1244,7 +1412,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 33.8972,
+      "lon": -84.59200000000001
+    }
   },
   {
     "particpant_id": 44,
@@ -1256,14 +1428,14 @@
     "treatment_history_code": "C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "43",
-    "hb": "9",
+    "age": 43,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "230,000",
+    "platelet": 230000,
     "platelet_code": "C51951",
     "platelet_code_value": "230000/uL",
-    "wbc": "6000",
+    "wbc": 6000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -1273,7 +1445,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 39.7354,
+      "lon": -74.9864
+    }
   },
   {
     "particpant_id": 45,
@@ -1285,14 +1461,14 @@
     "treatment_history_code": "C16169,C15477",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "32",
-    "hb": "10",
+    "age": 32,
+    "hb": 10,
     "hb_code": "C64848",
     "hb_code_value": "10g/dL",
-    "platelet": "250,000",
+    "platelet": 250000,
     "platelet_code": "C51951",
     "platelet_code_value": "250000/uL",
-    "wbc": "4500",
+    "wbc": 4500,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -1302,7 +1478,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 33.7669,
+      "lon": -118.3806
+    }
   },
   {
     "particpant_id": 46,
@@ -1314,14 +1494,14 @@
     "treatment_history_code": "C15477,C16171",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "60",
-    "hb": "12",
+    "age": 60,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "500,000",
+    "platelet": 500000,
     "platelet_code": "C51951",
     "platelet_code_value": "500000/uL",
-    "wbc": "12,000",
+    "wbc": 12000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -1331,7 +1511,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 41.6302,
+      "lon": -81.4076
+    }
   },
   {
     "particpant_id": 47,
@@ -1343,14 +1527,14 @@
     "treatment_history_code": "",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "44",
-    "hb": "10",
+    "age": 44,
+    "hb": 10,
     "hb_code": "C64848",
     "hb_code_value": "10g/dL",
-    "platelet": "240,000",
+    "platelet": 240000,
     "platelet_code": "C51951",
     "platelet_code_value": "240000/uL",
-    "wbc": "4000",
+    "wbc": 4000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -1360,7 +1544,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "",
-    "trial_type_code": ""
+    "trial_type_code": "",
+    "location": {
+      "lat": 28.6617,
+      "lon": -81.3122
+    }
   },
   {
     "particpant_id": 48,
@@ -1372,14 +1560,14 @@
     "treatment_history_code": "C16169,C15477,C16175,C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "88",
-    "hb": "8",
+    "age": 88,
+    "hb": 8,
     "hb_code": "C64848",
     "hb_code_value": "8g/dL",
-    "platelet": "250,000",
+    "platelet": 250000,
     "platelet_code": "C51951",
     "platelet_code_value": "250000/uL",
-    "wbc": "3,000",
+    "wbc": 3000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -1389,7 +1577,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 38.8377,
+      "lon": -76.798
+    }
   },
   {
     "particpant_id": 49,
@@ -1401,14 +1593,14 @@
     "treatment_history_code": "C16171",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "53",
-    "hb": "9",
+    "age": 53,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "400,000",
+    "platelet": 400000,
     "platelet_code": "C51951",
     "platelet_code_value": "400000/uL",
-    "wbc": "3,500",
+    "wbc": 3500,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -1418,7 +1610,11 @@
     "specific_treatment": "Immunotherapy",
     "specific_treatment_code": "C15262",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 29.9983,
+      "lon": -81.7647
+    }
   },
   {
     "particpant_id": 50,
@@ -1430,14 +1626,14 @@
     "treatment_history_code": "",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "32",
-    "hb": "10",
+    "age": 32,
+    "hb": 10,
     "hb_code": "C64848",
     "hb_code_value": "10g/dL",
-    "platelet": "230,000",
+    "platelet": 230000,
     "platelet_code": "C51951",
     "platelet_code_value": "230000/uL",
-    "wbc": "3500",
+    "wbc": 3500,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "80",
@@ -1447,7 +1643,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 34.7244,
+      "lon": -82.4702
+    }
   },
   {
     "particpant_id": 51,
@@ -1459,14 +1659,14 @@
     "treatment_history_code": "C16175,C16171,C15477,C16168",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "68",
-    "hb": "9",
+    "age": 68,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "375,000",
+    "platelet": 375000,
     "platelet_code": "C51951",
     "platelet_code_value": "375000/uL",
-    "wbc": "4,000",
+    "wbc": 4000,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "60",
@@ -1476,7 +1676,11 @@
     "specific_treatment": "Solid neoplasm",
     "specific_treatment_code": "C9292",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 36.2178,
+      "lon": -85.5423
+    }
   },
   {
     "particpant_id": 52,
@@ -1488,14 +1692,14 @@
     "treatment_history_code": "C16168",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "45",
-    "hb": "13",
+    "age": 45,
+    "hb": 13,
     "hb_code": "C64848",
     "hb_code_value": "13g/dL",
-    "platelet": "450,000",
+    "platelet": 450000,
     "platelet_code": "C51951",
     "platelet_code_value": "450000/uL",
-    "wbc": "6,000",
+    "wbc": 6000,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "90",
@@ -1505,7 +1709,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 42.1139,
+      "lon": -88.0429
+    }
   },
   {
     "particpant_id": 53,
@@ -1517,14 +1725,14 @@
     "treatment_history_code": "C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "23",
-    "hb": "12",
+    "age": 23,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "400,000",
+    "platelet": 400000,
     "platelet_code": "C51951",
     "platelet_code_value": "400000/uL",
-    "wbc": "8,000",
+    "wbc": 8000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -1534,7 +1742,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 40.9238,
+      "lon": -73.9989
+    }
   },
   {
     "particpant_id": 54,
@@ -1546,14 +1758,14 @@
     "treatment_history_code": "",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "64",
-    "hb": "10",
+    "age": 64,
+    "hb": 10,
     "hb_code": "C64848",
     "hb_code_value": "10g/dL",
-    "platelet": "80,000",
+    "platelet": 80000,
     "platelet_code": "C51951",
     "platelet_code_value": "80000/uL",
-    "wbc": "3,500",
+    "wbc": 3500,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -1563,7 +1775,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 39.8504,
+      "lon": -74.9646
+    }
   },
   {
     "particpant_id": 55,
@@ -1575,14 +1791,14 @@
     "treatment_history_code": "C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "53",
-    "hb": "12",
+    "age": 53,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "300,000",
+    "platelet": 300000,
     "platelet_code": "C51951",
     "platelet_code_value": "300000/uL",
-    "wbc": "12,000",
+    "wbc": 12000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -1592,7 +1808,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 32.3112,
+      "lon": -110.9179
+    }
   },
   {
     "particpant_id": 56,
@@ -1604,14 +1824,14 @@
     "treatment_history_code": "C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "56",
-    "hb": "11",
+    "age": 56,
+    "hb": 11,
     "hb_code": "C64848",
     "hb_code_value": "11g/dL",
-    "platelet": "102,000",
+    "platelet": 102000,
     "platelet_code": "C51951",
     "platelet_code_value": "102000/uL",
-    "wbc": "2,000",
+    "wbc": 2000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -1621,7 +1841,11 @@
     "specific_treatment": "Anti-CD19 Monoclonal Antibody",
     "specific_treatment_code": "C112889",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 41.6355,
+      "lon": -91.5016
+    }
   },
   {
     "particpant_id": 57,
@@ -1633,14 +1857,14 @@
     "treatment_history_code": "C16169,C15477",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "22",
-    "hb": "12",
+    "age": 22,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "400,500",
+    "platelet": 400500,
     "platelet_code": "C51951",
     "platelet_code_value": "400500/uL",
-    "wbc": "3,000",
+    "wbc": 3000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -1650,7 +1874,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 40.8676,
+      "lon": -73.4102
+    }
   },
   {
     "particpant_id": 58,
@@ -1662,14 +1890,14 @@
     "treatment_history_code": "C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "46",
-    "hb": "11",
+    "age": 46,
+    "hb": 11,
     "hb_code": "C64848",
     "hb_code_value": "11g/dL",
-    "platelet": "300,000",
+    "platelet": 300000,
     "platelet_code": "C51951",
     "platelet_code_value": "300000/uL",
-    "wbc": "8,000",
+    "wbc": 8000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -1679,7 +1907,11 @@
     "specific_treatment": "KRAS gene mutation",
     "specific_treatment_code": "C41361",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 38.8458,
+      "lon": -77.3242
+    }
   },
   {
     "particpant_id": 59,
@@ -1691,14 +1923,14 @@
     "treatment_history_code": "C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "87",
-    "hb": "9",
+    "age": 87,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "400,000",
+    "platelet": 400000,
     "platelet_code": "C51951",
     "platelet_code_value": "400000/uL",
-    "wbc": "10,000",
+    "wbc": 10000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -1708,7 +1940,11 @@
     "specific_treatment": "Cryotherapy",
     "specific_treatment_code": "C40030",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 47.8392,
+      "lon": -122.2855
+    }
   },
   {
     "particpant_id": 60,
@@ -1720,14 +1956,14 @@
     "treatment_history_code": "C16169,C16171",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "45",
-    "hb": "12",
+    "age": 45,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "300,000",
+    "platelet": 300000,
     "platelet_code": "C51951",
     "platelet_code_value": "300000/uL",
-    "wbc": "12,000",
+    "wbc": 12000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -1737,7 +1973,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 42.5512,
+      "lon": -82.9167
+    }
   },
   {
     "particpant_id": 61,
@@ -1749,14 +1989,14 @@
     "treatment_history_code": "",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "32",
-    "hb": "12",
+    "age": 32,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "350,000",
+    "platelet": 350000,
     "platelet_code": "C51951",
     "platelet_code_value": "350000/uL",
-    "wbc": "10,000",
+    "wbc": 10000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "0",
@@ -1766,7 +2006,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 35.0551,
+      "lon": -89.6767
+    }
   },
   {
     "particpant_id": 62,
@@ -1778,14 +2022,14 @@
     "treatment_history_code": "C16175,C15477,C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "87",
-    "hb": "9",
+    "age": 87,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "300,000",
+    "platelet": 300000,
     "platelet_code": "C51951",
     "platelet_code_value": "300000/uL",
-    "wbc": "11,000",
+    "wbc": 11000,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "60",
@@ -1795,7 +2039,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "",
-    "trial_type_code": ""
+    "trial_type_code": "",
+    "location": {
+      "lat": 39.042,
+      "lon": -77.6054
+    }
   },
   {
     "particpant_id": 63,
@@ -1807,14 +2055,14 @@
     "treatment_history_code": "C16169,C16171,C15477",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "68",
-    "hb": "11",
+    "age": 68,
+    "hb": 11,
     "hb_code": "C64848",
     "hb_code_value": "11g/dL",
-    "platelet": "450,000",
+    "platelet": 450000,
     "platelet_code": "C51951",
     "platelet_code_value": "450000/uL",
-    "wbc": "9,000",
+    "wbc": 9000,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "60",
@@ -1824,7 +2072,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 39.4059,
+      "lon": -84.5221
+    }
   },
   {
     "particpant_id": 64,
@@ -1836,14 +2088,14 @@
     "treatment_history_code": "C16169,C16171,C15477",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "53",
-    "hb": "12",
+    "age": 53,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "375,000",
+    "platelet": 375000,
     "platelet_code": "C51951",
     "platelet_code_value": "375000/uL",
-    "wbc": "8,000",
+    "wbc": 8000,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "60",
@@ -1853,7 +2105,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 40.8143,
+      "lon": -73.3634
+    }
   },
   {
     "particpant_id": 65,
@@ -1865,14 +2121,14 @@
     "treatment_history_code": "C15477,C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "25",
-    "hb": "9",
+    "age": 25,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "350,000",
+    "platelet": 350000,
     "platelet_code": "C51951",
     "platelet_code_value": "350000/uL",
-    "wbc": "10,000",
+    "wbc": 10000,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "80",
@@ -1882,7 +2138,11 @@
     "specific_treatment": "Immunotherapy,Pembrolizumab",
     "specific_treatment_code": "C106432,C15262",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 40.7939,
+      "lon": -74.0258
+    }
   },
   {
     "particpant_id": 66,
@@ -1894,14 +2154,14 @@
     "treatment_history_code": "C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "47",
-    "hb": "9",
+    "age": 47,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "500,000",
+    "platelet": 500000,
     "platelet_code": "C51951",
     "platelet_code_value": "500000/uL",
-    "wbc": "12,000",
+    "wbc": 12000,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "60",
@@ -1911,7 +2171,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 41.7143,
+      "lon": -87.7516
+    }
   },
   {
     "particpant_id": 67,
@@ -1923,14 +2187,14 @@
     "treatment_history_code": "",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "48",
-    "hb": "12",
+    "age": 48,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "400,000",
+    "platelet": 400000,
     "platelet_code": "C51951",
     "platelet_code_value": "400000/uL",
-    "wbc": "9,000",
+    "wbc": 9000,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "80",
@@ -1940,7 +2204,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "",
-    "trial_type_code": ""
+    "trial_type_code": "",
+    "location": {
+      "lat": 33.56,
+      "lon": -112.0927
+    }
   },
   {
     "particpant_id": 68,
@@ -1952,14 +2220,14 @@
     "treatment_history_code": "C16169",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "59",
-    "hb": "10",
+    "age": 59,
+    "hb": 10,
     "hb_code": "C64848",
     "hb_code_value": "10g/dL",
-    "platelet": "300,000",
+    "platelet": 300000,
     "platelet_code": "C51951",
     "platelet_code_value": "300000/uL",
-    "wbc": "8,000",
+    "wbc": 8000,
     "ps_type": "Karnofsky",
     "ps_comparator": "=",
     "ps_value": "70",
@@ -1969,7 +2237,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 25.9097,
+      "lon": -80.247
+    }
   },
   {
     "particpant_id": 69,
@@ -1981,14 +2253,14 @@
     "treatment_history_code": "C16169,C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "73",
-    "hb": "12",
+    "age": 73,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "350,000",
+    "platelet": 350000,
     "platelet_code": "C51951",
     "platelet_code_value": "350000/uL",
-    "wbc": "6,000",
+    "wbc": 6000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -1998,7 +2270,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 42.3311,
+      "lon": -88.2955
+    }
   },
   {
     "particpant_id": 70,
@@ -2010,14 +2286,14 @@
     "treatment_history_code": "",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "82",
-    "hb": "9",
+    "age": 82,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "290,000",
+    "platelet": 290000,
     "platelet_code": "C51951",
     "platelet_code_value": "290000/uL",
-    "wbc": "5,500",
+    "wbc": 5500,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "0",
@@ -2027,7 +2303,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 42.7605,
+      "lon": -83.404
+    }
   },
   {
     "particpant_id": 71,
@@ -2039,14 +2319,14 @@
     "treatment_history_code": "",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "36",
-    "hb": "8",
+    "age": 36,
+    "hb": 8,
     "hb_code": "C64848",
     "hb_code_value": "8g/dL",
-    "platelet": "150,000",
+    "platelet": 150000,
     "platelet_code": "C51951",
     "platelet_code_value": "150000/uL",
-    "wbc": "2,900",
+    "wbc": 2900,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "3",
@@ -2056,7 +2336,11 @@
     "specific_treatment": "Chimeric Antigen Receptor T-cells",
     "specific_treatment_code": "C137999",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 35.0781,
+      "lon": -85.0635
+    }
   },
   {
     "particpant_id": 72,
@@ -2068,14 +2352,14 @@
     "treatment_history_code": "C16171",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "46",
-    "hb": "12",
+    "age": 46,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "400,000",
+    "platelet": 400000,
     "platelet_code": "C51951",
     "platelet_code_value": "400000/uL",
-    "wbc": "3,000",
+    "wbc": 3000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -2085,7 +2369,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 39.0593,
+      "lon": -85.8886
+    }
   },
   {
     "particpant_id": 73,
@@ -2097,14 +2385,14 @@
     "treatment_history_code": "C16169",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "48",
-    "hb": "12",
+    "age": 48,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "350,000",
+    "platelet": 350000,
     "platelet_code": "C51951",
     "platelet_code_value": "350000/uL",
-    "wbc": "4,000",
+    "wbc": 4000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "0",
@@ -2114,7 +2402,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 32.5251,
+      "lon": -94.799
+    }
   },
   {
     "particpant_id": 74,
@@ -2126,14 +2418,14 @@
     "treatment_history_code": "",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "47",
-    "hb": "12",
+    "age": 47,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "500,000",
+    "platelet": 500000,
     "platelet_code": "C51951",
     "platelet_code_value": "500000/uL",
-    "wbc": "9,000",
+    "wbc": 9000,
     "ps_type": "Zubrod",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -2143,7 +2435,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "",
-    "trial_type_code": ""
+    "trial_type_code": "",
+    "location": {
+      "lat": 46.8083,
+      "lon": -100.7837
+    }
   },
   {
     "particpant_id": 75,
@@ -2155,14 +2451,14 @@
     "treatment_history_code": "C15477,C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "53",
-    "hb": "9",
+    "age": 53,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "250,000",
+    "platelet": 250000,
     "platelet_code": "C51951",
     "platelet_code_value": "250000/uL",
-    "wbc": "10,000",
+    "wbc": 10000,
     "ps_type": "Zubrod",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -2172,7 +2468,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 40.8835,
+      "lon": -74.2144
+    }
   },
   {
     "particpant_id": 76,
@@ -2184,14 +2484,14 @@
     "treatment_history_code": "C16171,C15477,C16168",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "66",
-    "hb": "9",
+    "age": 66,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "400,000",
+    "platelet": 400000,
     "platelet_code": "C51951",
     "platelet_code_value": "400000/uL",
-    "wbc": "10,000",
+    "wbc": 10000,
     "ps_type": "Zubrod",
     "ps_comparator": "=",
     "ps_value": "3",
@@ -2201,7 +2501,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 41.0449,
+      "lon": -83.6457
+    }
   },
   {
     "particpant_id": 77,
@@ -2213,14 +2517,14 @@
     "treatment_history_code": "",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "53",
-    "hb": "8",
+    "age": 53,
+    "hb": 8,
     "hb_code": "C64848",
     "hb_code_value": "8g/dL",
-    "platelet": "80,000",
+    "platelet": 80000,
     "platelet_code": "C51951",
     "platelet_code_value": "80000/uL",
-    "wbc": "3,500",
+    "wbc": 3500,
     "ps_type": "Zubrod",
     "ps_comparator": "=",
     "ps_value": "3",
@@ -2230,7 +2534,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "",
-    "trial_type_code": ""
+    "trial_type_code": "",
+    "location": {
+      "lat": 45.7907,
+      "lon": -122.5318
+    }
   },
   {
     "particpant_id": 78,
@@ -2242,14 +2550,14 @@
     "treatment_history_code": "C16171",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "34",
-    "hb": "12",
+    "age": 34,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "450,000",
+    "platelet": 450000,
     "platelet_code": "C51951",
     "platelet_code_value": "450000/uL",
-    "wbc": "3,500",
+    "wbc": 3500,
     "ps_type": "Zubrod",
     "ps_comparator": "=",
     "ps_value": "0",
@@ -2259,7 +2567,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 42.5694,
+      "lon": -70.9425
+    }
   },
   {
     "particpant_id": 79,
@@ -2271,14 +2583,14 @@
     "treatment_history_code": "",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "53",
-    "hb": "7",
+    "age": 53,
+    "hb": 7,
     "hb_code": "C64848",
     "hb_code_value": "7g/dL",
-    "platelet": "120,000",
+    "platelet": 120000,
     "platelet_code": "C51951",
     "platelet_code_value": "120000/uL",
-    "wbc": "2,550",
+    "wbc": 2550,
     "ps_type": "Zubrod",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -2288,7 +2600,11 @@
     "specific_treatment": "Cryosurgery,cryoablation",
     "specific_treatment_code": "C15215,C61129",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 39.0112,
+      "lon": -76.6802
+    }
   },
   {
     "particpant_id": 80,
@@ -2300,14 +2616,14 @@
     "treatment_history_code": "",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "64",
-    "hb": "11",
+    "age": 64,
+    "hb": 11,
     "hb_code": "C64848",
     "hb_code_value": "11g/dL",
-    "platelet": "400,000",
+    "platelet": 400000,
     "platelet_code": "C51951",
     "platelet_code_value": "400000/uL",
-    "wbc": "10,000",
+    "wbc": 10000,
     "ps_type": "Zubrod",
     "ps_comparator": "=",
     "ps_value": "0",
@@ -2317,7 +2633,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 33.6061,
+      "lon": -112.2797
+    }
   },
   {
     "particpant_id": 81,
@@ -2329,14 +2649,14 @@
     "treatment_history_code": "C16169,C16171,C15477",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "66",
-    "hb": "11",
+    "age": 66,
+    "hb": 11,
     "hb_code": "C64848",
     "hb_code_value": "11g/dL",
-    "platelet": "450,000",
+    "platelet": 450000,
     "platelet_code": "C51951",
     "platelet_code_value": "450000/uL",
-    "wbc": "3,500",
+    "wbc": 3500,
     "ps_type": "Zubrod",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -2346,7 +2666,11 @@
     "specific_treatment": "Immunotherapy",
     "specific_treatment_code": "C15262",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 41.9194,
+      "lon": -88.307
+    }
   },
   {
     "particpant_id": 82,
@@ -2358,14 +2682,14 @@
     "treatment_history_code": "C16169,C15477",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "45",
-    "hb": "11",
+    "age": 45,
+    "hb": 11,
     "hb_code": "C64848",
     "hb_code_value": "11g/dL",
-    "platelet": "450,000",
+    "platelet": 450000,
     "platelet_code": "C51951",
     "platelet_code_value": "450000/uL",
-    "wbc": "6,000",
+    "wbc": 6000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -2375,7 +2699,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "",
-    "trial_type_code": ""
+    "trial_type_code": "",
+    "location": {
+      "lat": 39.023,
+      "lon": -77.3994
+    }
   },
   {
     "particpant_id": 83,
@@ -2387,14 +2715,14 @@
     "treatment_history_code": "",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "79",
-    "hb": "12",
+    "age": 79,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "500,000",
+    "platelet": 500000,
     "platelet_code": "C51951",
     "platelet_code_value": "500000/uL",
-    "wbc": "3,000",
+    "wbc": 3000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "0",
@@ -2404,7 +2732,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 36.2954,
+      "lon": -82.4902
+    }
   },
   {
     "particpant_id": 84,
@@ -2416,14 +2748,14 @@
     "treatment_history_code": "",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "54",
-    "hb": "9",
+    "age": 54,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "450,000",
+    "platelet": 450000,
     "platelet_code": "C51951",
     "platelet_code_value": "450000/uL",
-    "wbc": "3,500",
+    "wbc": 3500,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "0",
@@ -2433,7 +2765,11 @@
     "specific_treatment": "Irreversible electroporation",
     "specific_treatment_code": "C131483",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 40.6516,
+      "lon": -75.22399999999998
+    }
   },
   {
     "particpant_id": 85,
@@ -2445,14 +2781,14 @@
     "treatment_history_code": "C16168",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "34",
-    "hb": "12",
+    "age": 34,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "500,000",
+    "platelet": 500000,
     "platelet_code": "C51951",
     "platelet_code_value": "500000/uL",
-    "wbc": "8,000",
+    "wbc": 8000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -2462,7 +2798,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "",
-    "trial_type_code": ""
+    "trial_type_code": "",
+    "location": {
+      "lat": 28.3011,
+      "lon": -82.6927
+    }
   },
   {
     "particpant_id": 86,
@@ -2474,14 +2814,14 @@
     "treatment_history_code": "C16169,C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "45",
-    "hb": "8",
+    "age": 45,
+    "hb": 8,
     "hb_code": "C64848",
     "hb_code_value": "8g/dL",
-    "platelet": "120,000",
+    "platelet": 120000,
     "platelet_code": "C51951",
     "platelet_code_value": "120000/uL",
-    "wbc": "2,550",
+    "wbc": 2550,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "3",
@@ -2491,7 +2831,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 41.3132,
+      "lon": -81.8285
+    }
   },
   {
     "particpant_id": 87,
@@ -2503,14 +2847,14 @@
     "treatment_history_code": "C16169,C16175",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "64",
-    "hb": "12",
+    "age": 64,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "200,000",
+    "platelet": 200000,
     "platelet_code": "C51951",
     "platelet_code_value": "200000/uL",
-    "wbc": "4,000",
+    "wbc": 4000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -2520,7 +2864,11 @@
     "specific_treatment": "Radium Ra 223 Dichloride",
     "specific_treatment_code": "C62535",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 36.7352,
+      "lon": -76.2384
+    }
   },
   {
     "particpant_id": 88,
@@ -2532,14 +2880,14 @@
     "treatment_history_code": "C16169,C15477,C16171",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "42",
-    "hb": "8",
+    "age": 42,
+    "hb": 8,
     "hb_code": "C64848",
     "hb_code_value": "8g/dL",
-    "platelet": "275,000",
+    "platelet": 275000,
     "platelet_code": "C51951",
     "platelet_code_value": "275000/uL",
-    "wbc": "5,000",
+    "wbc": 5000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -2549,7 +2897,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 37.3029,
+      "lon": -79.9322
+    }
   },
   {
     "particpant_id": 89,
@@ -2561,14 +2913,14 @@
     "treatment_history_code": "C15477",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "46",
-    "hb": "12",
+    "age": 46,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "400,000",
+    "platelet": 400000,
     "platelet_code": "C51951",
     "platelet_code_value": "400000/uL",
-    "wbc": "8,000",
+    "wbc": 8000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -2578,7 +2930,11 @@
     "specific_treatment": "Immunotherapy",
     "specific_treatment_code": "C15262",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 43.1602,
+      "lon": -88.1128
+    }
   },
   {
     "particpant_id": 90,
@@ -2590,14 +2946,14 @@
     "treatment_history_code": "C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "57",
-    "hb": "10",
+    "age": 57,
+    "hb": 10,
     "hb_code": "C64848",
     "hb_code_value": "10g/dL",
-    "platelet": "350,000",
+    "platelet": 350000,
     "platelet_code": "C51951",
     "platelet_code_value": "350000/uL",
-    "wbc": "12,000",
+    "wbc": 12000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "0",
@@ -2607,7 +2963,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 40.8146,
+      "lon": -73.5024
+    }
   },
   {
     "particpant_id": 91,
@@ -2619,14 +2979,14 @@
     "treatment_history_code": "C16169,C16171",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "78",
-    "hb": "9",
+    "age": 78,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "375,000",
+    "platelet": 375000,
     "platelet_code": "C51951",
     "platelet_code_value": "375000/uL",
-    "wbc": "4,000",
+    "wbc": 4000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -2636,7 +2996,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 30.084,
+      "lon": -81.8645
+    }
   },
   {
     "particpant_id": 92,
@@ -2648,14 +3012,14 @@
     "treatment_history_code": "C16171",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "57",
-    "hb": "8",
+    "age": 57,
+    "hb": 8,
     "hb_code": "C64848",
     "hb_code_value": "8g/dL",
-    "platelet": "150,000",
+    "platelet": 150000,
     "platelet_code": "C51951",
     "platelet_code_value": "150000/uL",
-    "wbc": "2,000",
+    "wbc": 2000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -2665,7 +3029,11 @@
     "specific_treatment": "Adjuvant Therapy",
     "specific_treatment_code": "C15675",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 36.8621,
+      "lon": -87.4851
+    }
   },
   {
     "particpant_id": 93,
@@ -2677,14 +3045,14 @@
     "treatment_history_code": "",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "68",
-    "hb": "9",
+    "age": 68,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "200,000",
+    "platelet": 200000,
     "platelet_code": "C51951",
     "platelet_code_value": "200000/uL",
-    "wbc": "3,500",
+    "wbc": 3500,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -2694,7 +3062,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "",
-    "trial_type_code": ""
+    "trial_type_code": "",
+    "location": {
+      "lat": 42.8667,
+      "lon": -71.5128
+    }
   },
   {
     "particpant_id": 94,
@@ -2706,14 +3078,14 @@
     "treatment_history_code": "C16171,C16168",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "54",
-    "hb": "12",
+    "age": 54,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "500,000",
+    "platelet": 500000,
     "platelet_code": "C51951",
     "platelet_code_value": "500000/uL",
-    "wbc": "9,000",
+    "wbc": 9000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -2723,7 +3095,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 43.0871,
+      "lon": -75.2315
+    }
   },
   {
     "particpant_id": 95,
@@ -2735,14 +3111,14 @@
     "treatment_history_code": "C16169,C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "63",
-    "hb": "12",
+    "age": 63,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "450,000",
+    "platelet": 450000,
     "platelet_code": "C51951",
     "platelet_code_value": "450000/uL",
-    "wbc": "8,000",
+    "wbc": 8000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -2752,7 +3128,11 @@
     "specific_treatment": "Vaccine",
     "specific_treatment_code": "C923",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 42.6826,
+      "lon": -71.109
+    }
   },
   {
     "particpant_id": 96,
@@ -2764,14 +3144,14 @@
     "treatment_history_code": "C16171,C15477",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "68",
-    "hb": "12",
+    "age": 68,
+    "hb": 12,
     "hb_code": "C64848",
     "hb_code_value": "12g/dL",
-    "platelet": "375,000",
+    "platelet": 375000,
     "platelet_code": "C51951",
     "platelet_code_value": "375000/uL",
-    "wbc": "7,000",
+    "wbc": 7000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -2781,7 +3161,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 39.2644,
+      "lon": -81.5354
+    }
   },
   {
     "particpant_id": 97,
@@ -2793,14 +3177,14 @@
     "treatment_history_code": "C16169,C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "64",
-    "hb": "9",
+    "age": 64,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "350,000",
+    "platelet": 350000,
     "platelet_code": "C51951",
     "platelet_code_value": "350000/uL",
-    "wbc": "5,000",
+    "wbc": 5000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "2",
@@ -2810,7 +3194,11 @@
     "specific_treatment": "Vaccine",
     "specific_treatment_code": "C923",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 42.2491,
+      "lon": -70.9978
+    }
   },
   {
     "particpant_id": 98,
@@ -2822,14 +3210,14 @@
     "treatment_history_code": "C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "33",
-    "hb": "11",
+    "age": 33,
+    "hb": 11,
     "hb_code": "C64848",
     "hb_code_value": "11g/dL",
-    "platelet": "275,000",
+    "platelet": 275000,
     "platelet_code": "C51951",
     "platelet_code_value": "275000/uL",
-    "wbc": "8,000",
+    "wbc": 8000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "0",
@@ -2839,7 +3227,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 42.4671,
+      "lon": -96.3528
+    }
   },
   {
     "particpant_id": 99,
@@ -2851,14 +3243,14 @@
     "treatment_history_code": "",
     "gender": "FEMALE",
     "gender_code": "C46110",
-    "age": "60",
-    "hb": "11",
+    "age": 60,
+    "hb": 11,
     "hb_code": "C64848",
     "hb_code_value": "11g/dL",
-    "platelet": "350,000",
+    "platelet": 350000,
     "platelet_code": "C51951",
     "platelet_code_value": "350000/uL",
-    "wbc": "4,500",
+    "wbc": 4500,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -2868,7 +3260,11 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 40.982,
+      "lon": -74.1131
+    }
   },
   {
     "particpant_id": 100,
@@ -2880,14 +3276,14 @@
     "treatment_history_code": "C16171",
     "gender": "MALE",
     "gender_code": "C46109",
-    "age": "44",
-    "hb": "9",
+    "age": 44,
+    "hb": 9,
     "hb_code": "C64848",
     "hb_code_value": "9g/dL",
-    "platelet": "250,000",
+    "platelet": 250000,
     "platelet_code": "C51951",
     "platelet_code_value": "250000/uL",
-    "wbc": "5,000",
+    "wbc": 5000,
     "ps_type": "ECOG",
     "ps_comparator": "=",
     "ps_value": "1",
@@ -2897,6 +3293,10 @@
     "specific_treatment": "",
     "specific_treatment_code": "",
     "trial_type": "Cancer Treatment Trial",
-    "trial_type_code": "C16096"
+    "trial_type_code": "C16096",
+    "location": {
+      "lat": 40.3191,
+      "lon": -79.7205
+    }
   }
 ]
