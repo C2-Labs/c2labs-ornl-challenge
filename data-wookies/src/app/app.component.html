@@ -1,0 +1,51 @@
+<nav class="navbar navbar-expand-md navbar-light fixed-top" style="background-color: white;">
+  <a class="navbar-brand" href="https://www.c2labs.com"><img src="assets/c2labs-logo.png" style="height: 30px; width: 30px;" class="mr-2" /> C2 Labs</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link ml-2 mr-2" [routerLink]="['/home']"><i class="fas fa-home"></i> Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link mr-2" [routerLink]="['/patients']"><i class="fas fa-head-side-mask"></i> Patients</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link mr-2" [routerLink]="['/providers']"><i class="fas fa-hospital-user"></i> Providers</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link mr-2" [routerLink]="['/visualizations']"><i class="fas fa-chart-area"></i> Visualizations</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link mr-2" [routerLink]="['/docs']"><i class="fas fa-book-medical"></i> Documentation</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<main role="main" style="margin-top: 60px;">
+
+  <router-outlet></router-outlet>
+
+</main>
+
+<footer class="container">
+  <div class="row">
+    <div class="col-md-6 text-center">
+      <img class="mt-2" src="assets/ornl.png" style="width: 80px; height: 80px;" />
+    </div>
+    <div class="col-md-6 text-center">
+      <img src="assets/c2labs-logo.png" style="width: 100px; height: 100px;" />
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <p>&copy; C2 Labs - 2020</p>
+    </div>
+  </div>
+</footer>
+
+
+
