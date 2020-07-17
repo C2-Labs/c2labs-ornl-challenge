@@ -13,3 +13,7 @@ There were multiple components of this project that were assembled to deliver th
 - **Python** - contains analytical techniques using Python to build a data science model for matching patients to trials
 - **R** - contains analytical techniques using R to build a data science model for matching patients to trials
 - **Data Wookies** - contains source code for the Angular application that provides a front-end for interacting with the data models and APIs for processing data and connecting to ElasticSearch
+
+## Solution Architecture
+
+![Solution Architecture](data-wookies/src/assets/architecture.png)
