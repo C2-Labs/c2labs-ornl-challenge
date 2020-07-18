@@ -1,1 +1,190 @@
-<p>patients works!</p>
+<div class="card">
+  <div class="card-header">
+    <h5 class="card-title">Trial Finder - Participant Form</h5>
+  </div>
+  <div class="card-body">
+
+    <form #f="ngForm" data-toggle="validator" novalidate="true">
+
+      <div class="alert alert-info" role="alert">
+        Provide a little bit of information below so our automated trial finder can match you with the best available
+        clinical trial options.
+      </div>
+
+      <div class="form-group">
+        <label for="keywords">Keywords (cancer type, stage, symptoms, location of the cancer on the body, etc.)</label>
+        <textarea class="form-control" id="keywords" rows="3" name="keywords" [(ngModel)]="p.keywords"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label for="gender">Gender</label>
+        <select class="form-control" id="gender" name="gender" [(ngModel)]="p.gender">
+          <option>Male</option>
+          <option>Female</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="zipcode">Zipcode</label>
+        <input type="text" class="form-control" id="zipcode" name="zipcode" [(ngModel)]="p.zipcode">
+      </div>
+
+      <div class="form-group">
+        <label for="distance">Distance (in miles) You are Willing to Travel for a Trial</label>
+        <input type="number" class="form-control" id="distance" name="distance" [(ngModel)]="p.distance">
+      </div>
+
+      <div class="form-group">
+        <label for="age">Age</label>
+        <input type="number" class="form-control" id="age" name="age" [(ngModel)]="p.age">
+      </div>
+
+      <div class="form-group">
+        <label for="cancerType">Cancer Type (Select All that Apply by Holding CTRL key)</label>
+        <select multiple class="form-control" id="cancerType" name="cancerType" [(ngModel)]="p.cancerType">
+          <option></option>
+          <option>Acute Lymphoblastic Leukemia (ALL)</option>
+          <option>Acute Myeloid Leukemia (AML)</option>
+          <option>Adrenal Cortex Cancer</option>
+          <option>Ampulla of Vater Cancer</option>
+          <option>Anal Cancer</option>
+          <option>Angiosarcoma</option>
+          <option>Appendix Cancer</option>
+          <option>Astrocytoma</option>
+          <option>Atypical Teratoid/Rhabdoid Tumor</option>
+          <option>Bile Duct Cancer (including Cholangiocarcinoma)</option>
+          <option>Bladder Cancer</option>
+          <option>Bone Cancer</option>
+          <option>Bone Sarcoma</option>
+          <option>Brain/Spinal Cord Tumor</option>
+          <option>Breast Cancer</option>
+          <option>COVID-19</option>
+          <option>Cancer-Related Syndrome</option>
+          <option>Cervical Cancer</option>
+          <option>Chondrosarcoma</option>
+          <option>Chordoma</option>
+          <option>Choriocarcinoma</option>
+          <option>Choroid Plexus Cancer</option>
+          <option>Chronic Lymphocytic Leukemia (CLL)</option>
+          <option>Chronic Myelogenous Leukemia (CML)</option>
+          <option>Chronic Myelomonocytic Leukemia (CMML)</option>
+          <option>Chronic Myeloproliferative Disease</option>
+          <option>Colorectal (Colon or Rectal) Cancer</option>
+          <option>Composite Lymphoma</option>
+          <option>Cutaneous (Skin) Melanoma</option>
+          <option>Dysgerminoma</option>
+          <option>Embryonal Carcinoma</option>
+          <option>Embryonal Neoplasm</option>
+          <option>Ependymoma</option>
+          <option>Esophageal Cancer</option>
+          <option>Ewing Sarcoma</option>
+          <option>Extrahepatic (Distal) Bile Duct Cancer</option>
+          <option>Eye Cancer</option>
+          <option>Fallopian Tube Cancer</option>
+          <option>Gallbladder Cancer</option>
+          <option>Ganglioneuroblastoma</option>
+          <option>Gastric (Stomach) Cancer</option>
+          <option>Castrointestinal Stromal Tumor (GIST)</option>
+          <option>Germ Cell Tumor</option>
+          <option>Germinoma</option>
+          <option>Gestational Trophoblastic Tumor</option>
+          <option>Glioblastoma</option>
+          <option>Glioma</option>
+          <option>Head and Neck Carcinoma</option>
+          <option>Hematopoietic and Lymphoid Cell Neoplasm</option>
+          <option>Hepatoblastoma</option>
+          <option>Hepatocellular Cancer</option>
+          <option>Hodgkin Lymphoma</option>
+          <option>Hypopharyngeal Throat Cancer</option>
+          <option>Intrahepatic Bile Duct Cancer (Cholangiocarcinoma)</option>
+          <option>Kaposi Sarcoma</option>
+          <option>Kidney (including Renal Cell) Cancer</option>
+          <option>Laryngeal Throat Cancer</option>
+          <option>Leiomyosarcoma</option>
+          <option>Leukemia</option>
+          <option>Lip and Oral Cavity Cancer</option>
+          <option>Liposarcoma</option>
+          <option>Liver Cancer</option>
+          <option>Lung Cancer</option>
+          <option>Lymphoid Leukemia</option>
+          <option>Lymphoma</option>
+          <option>Melanoma</option>
+          <option>Meningioma</option>
+          <option>Mesothelioma</option>
+          <option>Mixed Germ Cell Tumor</option>
+          <option>Multiple Myeloma/Plasma Cell Myeloma</option>
+          <option>Myelodysplastic Syndrome</option>
+          <option>Myeloid Leukemia</option>
+          <option>Nasal Cavity and Paranasal Sinus Cancer</option>
+          <option>Nasopharyngeal Throat Cancer</option>
+          <option>Nervous System Tumor</option>
+          <option>Neuroblastoma</option>
+          <option>Neuroendocrine Tumor</option>
+          <option>Non-Cutaneous Melanoma</option>
+          <option>Non-Hodgkin Lymphoma</option>
+          <option>Non-Melanoma Skin Cancer</option>
+          <option>Non-Small Cell Lung Cancer</option>
+          <option>Oral Cavity Cancer</option>
+          <option>Orophayngeal Throat Cancer</option>
+          <option>Osteosarcoma</option>
+          <option>Ovarian Cancer</option>
+          <option>Paget Disease</option>
+          <option>Pancreatic Cancer</option>
+          <option>Parathyroid Gland Cancer</option>
+          <option>Penile Cancer</option>
+          <option>Pharyngeal Throat Cancer</option>
+          <option>Pineoblastoma</option>
+          <option>Pituitary Gland Cancer</option>
+          <option>Plasma Cell Tumor</option>
+          <option>Plasmacytoma</option>
+          <option>Pleuropulmonary Blastoma</option>
+          <option>Primary Peritoneal Cancer</option>
+          <option>Primitive Neuroectodermal Tumor (PNET)</option>
+          <option>Prostate Cancer</option>
+          <option>Retinoblastoma</option>
+          <option>Retroperitoneal Cancer</option>
+          <option>Rhabdomyosarcoma</option>
+          <option>Salivary Gland Cancer</option>
+          <option>Sarcoma</option>
+          <option>Seminoma</option>
+          <option>Small Cell Lung Cancer</option>
+          <option>Small Intestinal Cancer</option>
+          <option>Soft Tissue Sarcoma</option>
+          <option>Solid Tumor</option>
+          <option>Teratoma</option>
+          <option>Testicular Cancer</option>
+          <option>Thymic Carcinoma</option>
+          <option>Thymoma</option>
+          <option>Thyroid Gland Cancer</option>
+          <option>Trophoblastic Tumar</option>
+          <option>Ureter Cancer</option>
+          <option>Urethral Cancer</option>
+          <option>Uterine (Including Endometrial) Cancer</option>
+          <option>Uterine Sarcoma</option>
+          <option>Vaginal Cancer</option>
+          <option>Vulvar Cancer</option>
+          <option>Wilms Tumor</option>
+          <option>Yolk Sac Tumor</option>
+          <option>Other Carcinoma</option>
+          <option>Other Disease</option>
+          <option>Other Neoplasm</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="cancerStage">Cancer Stage</label>
+        <select class="form-control" id="cancerStage" name="cancerStage" [(ngModel)]="p.cancerStage">
+          <option>Stage 0</option>
+          <option>Stage I</option>
+          <option>Stage II</option>
+          <option>Stage III</option>
+          <option>Stage IV</option>
+        </select>
+      </div>
+
+      <button type="button" class="btn btn-primary" (click)="getTrials()">Find Trials</button>
+
+    </form>
+
+  </div>
+</div>
