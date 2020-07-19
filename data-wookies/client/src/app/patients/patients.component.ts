@@ -9,7 +9,8 @@ import { Subject } from 'rxjs';
   templateUrl: './patients.component.html',
   styleUrls: ['./patients.component.css']
 })
-export class PatientsComponent implements OnDestroy {
+
+export class PatientsComponent implements OnInit {
 
 
   //declare variables
@@ -26,16 +27,15 @@ export class PatientsComponent implements OnDestroy {
 
   //retrieve the list of trials
   getTrials() {
-    console.log(this.p);
-    this.appService.getTrials(this.p).pipe(takeUntil(this.destroy$)).subscribe((trials: any[]) => {
+    this.appService.getTrials(this.p).subscribe((trials: any[]) => {
       this.trials = trials;
-      console.log(trials);
     });
     
   }
 
-  ngOnDestroy() {
-    this.destroy$.next(true);
-    this.destroy$.unsubscribe();
+  //clear for a new search
+  newSearch() {
+    this.trials = [];
   }
+
 }

@@ -1,6 +1,5 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Participant } from './participant';
 
 @Injectable({
   providedIn: 'root'
@@ -12,8 +11,7 @@ export class AppService {
   rootURL = '/api';
 
   getTrials(participant: any) {
-    console.log("getTrials Service Called");
-    return this.http.post(this.rootURL + '/trials', {participant});
+    return this.http.post(this.rootURL + '/trials', { participant });
   }
 
 }
