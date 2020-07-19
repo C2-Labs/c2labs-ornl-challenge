@@ -17,3 +17,8 @@ There were multiple components of this project that were assembled to deliver th
 ## Solution Architecture
 
 ![Solution Architecture](data-wookies/client/src/assets/architecture.png)
+
+## Run the Application Locally
+
+- From the data-wookies folder, run `npm run dev` to start the Node.js web server for Express (hosts the APIs)
+- From the data-wookies\client folder, run `ng serve` to start the Angular web server (front-end application)
