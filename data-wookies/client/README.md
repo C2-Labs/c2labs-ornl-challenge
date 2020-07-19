@@ -1,10 +1,13 @@
 # DataWookies
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1 and uses NodeJS v12.13.0 for API calls that run Python or R scripts. 
 
 ## Development server
+Open a terminal and from the datawookies folder run `npm run dev` to startup the NodeJS dev server.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Open a second terminals and Run `ng serve` to startup the Angular dev server. Navigate to `http://localhost:4200/`. 
+
+The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
