@@ -1,4 +1,4 @@
-<div class="card">
+<div class="card" *ngIf="this.trials.length == 0">
   <div class="card-header">
     <h5 class="card-title">Trial Finder - Participant Form</h5>
   </div>
@@ -186,5 +186,35 @@
 
     </form>
 
+  </div>
+</div>
+
+<!-- Show the trial results-->
+<div class="card" *ngIf="this.trials.length > 0">
+  <div class="card-header">
+    <h5 class="card-title">Results: Most Relevant Trials</h5>
+    <button type="button" class="btn btn-primary" (click)="newSearch()">New Search</button>
+  </div>
+  <div class="card-body">
+    <div class="table-responsive">
+      <table class="table table-hover">
+        <thead>
+          <tr>
+            <td class="tableHeaderStyle">ID</td>
+            <td class="tableHeaderStyle">Title</td>
+            <td class="tableHeaderStyle">Location</td>
+            <td class="tableHeaderStyle">Phone #</td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let t of trials">
+            <td>{{ t.nci_id }}</td>
+            <td>{{ t.title }}</td>
+            <td>{{ t.location }}</td>
+            <td>{{ t.contact_phone }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </div>
 </div>

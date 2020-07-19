@@ -16,4 +16,4 @@ There were multiple components of this project that were assembled to deliver th
 
 ## Solution Architecture
 
-![Solution Architecture](data-wookies/src/assets/architecture.png)
+![Solution Architecture](data-wookies/client/src/assets/architecture.png)
