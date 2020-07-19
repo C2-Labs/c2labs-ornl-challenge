@@ -8,6 +8,7 @@ import { PatientsComponent } from './patients/patients.component';
 import { ProvidersComponent } from './providers/providers.component';
 import { VisualizationsComponent } from './visualizations/visualizations.component';
 import { DocumentationComponent } from './documentation/documentation.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { DocumentationComponent } from './documentation/documentation.component'
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule
+    FormsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
