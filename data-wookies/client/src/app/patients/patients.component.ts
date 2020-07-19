@@ -9,6 +9,7 @@ import { Subject } from 'rxjs';
   templateUrl: './patients.component.html',
   styleUrls: ['./patients.component.css']
 })
+
 export class PatientsComponent implements OnInit {
 
 
