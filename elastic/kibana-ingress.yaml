@@ -11,10 +11,10 @@ metadata:
 spec:
   tls:
   - hosts:
-    - ornl-challenge.c2labs.com
+    - datawookies-visualize.c2labs.com
     secretName: kibana-tls
   rules:
-  - host: ornl-challenge.c2labs.com
+  - host: datawookies-visualize.c2labs.com
     http:
       paths:
       - backend:
