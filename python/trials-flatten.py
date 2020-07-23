@@ -7,13 +7,13 @@ from itertools import zip_longest
 
 
 
-url = "http://20.42.25.27:9200/trials/_search"
+url = "https://datawookies.c2labs.com/es/trials/_search"
 
 headers = {'accept': '*/*'}
 
 search_coordinates = "37.7402,-122.171"
 
-data = {"_source": ["nct_id","nci_id","eligibility","anatomic_sites"],"query": {"bool" : {"must" : {"match_all" : {}},"filter" : {"geo_distance" : {"distance" : "100mi","sites.org_coordinates" : "37.7402,-122.171"}}}}}
+data = {"_source": ["nct_id","nci_id","eligibility","anatomic_sites"],"size": "250","query": {"bool" : {"must" : {"match_all" : {}},"filter" : {"geo_distance" : {"distance" : "2000mi","sites.org_coordinates" : "37.7402,-122.171"}}}}}
 
 response = requests.get(url, json=data, headers=headers)
 
