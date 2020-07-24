@@ -20,5 +20,6 @@ There were multiple components of this project that were assembled to deliver th
 
 ## Run the Application Locally
 
+- Install NodeJS, Angular, and Python3 on your local development machine 
 - From the data-wookies folder, run `npm run dev` to start the Node.js web server for Express (hosts the APIs)
 - From the data-wookies\client folder, run `ng serve` to start the Angular web server (front-end application)
