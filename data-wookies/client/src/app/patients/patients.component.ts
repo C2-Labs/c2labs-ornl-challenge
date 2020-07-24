@@ -30,7 +30,14 @@ export class PatientsComponent implements OnInit {
     this.appService.getTrials(this.p)
       .subscribe((data: any[]) => {
         console.log(data);
-        this.trials = data;
+        for(let i=0; i < data.length; i++) {
+          console.log(data[i]);
+        }
+
+        data.forEach(function (value) {
+          console.log(value);
+        });
+        //this.trials = data;
     });
     console.log("trials=" + this.trials);
     
