@@ -13,7 +13,12 @@ headers = {'accept': '*/*'}
 
 search_coordinates = "37.7402,-122.171"
 
-data = {"_source": ["nct_id","nci_id","eligibility","anatomic_sites"],"size": "250","query": {"bool" : {"must" : {"match_all" : {}},"filter" : {"geo_distance" : {"distance" : "2000mi","sites.org_coordinates" : "37.7402,-122.171"}}}}}
+lat = "41.6103"
+lon = "-87.6534"
+gender = "FEMALE"
+age = 46
+
+data = {"_source": ["nct_id","nci_id","eligibility","anatomic_sites"], "size": 10, "query": {"bool" : {"must" : {"match_all" : {}},"filter" : {"geo_distance" : {"distance" : "1000mi","sites.org_coordinates" : "" + lat + "," + lon + ""}}}}}
 
 response = requests.get(url, json=data, headers=headers)
 
@@ -22,6 +27,8 @@ results = []
 trials = []
 if (response.status_code == 200):
     results = response.json()['hits']['hits']
+
+    print (str(len(results)))
     
     for item in results:
         nci_id = item['_source']['nci_id']
@@ -64,14 +71,14 @@ else:
     print ("No Data")
 
 
-print(json.dumps(trials, indent=2))
+# print(json.dumps(trials, indent=2))
 
 # df = pd.read_json (trials)
 df = pd.DataFrame(trials).fillna(0)
 # df = pd.DataFrame(trials)
 pd.DataFrame()
 # df = df.T
-export_csv = df.to_csv (r'../datasets/trials_flatten.csv', index = False, header=True)
+export_csv = df.to_csv (r'../datasets/trials_flat.csv', index = False, header=True)
 # outfile = "../datasets/trials_filtered.json" 
 # file = open(outfile, "w")
 # file.write(json.dumps(trials, indent=2))  
