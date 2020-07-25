@@ -30,7 +30,8 @@ def main(argv):
     url = "https://datawookies.c2labs.com/es/trials/_search"
 
     headers = {'accept': '*/*'}
-    result_max = 25
+    result_max = 300
+    
 
     gender = sys.argv[1]
     age = sys.argv[2]
@@ -78,7 +79,16 @@ def main(argv):
 
     sorted_trials = sorted(trials, reverse=True, key=lambda i: i['score']) 
 
-    print (json.dumps(sorted_trials))
+    max_res_records = 25
+    res_idx = 0
+    trial_results = []
+    for trial in sorted_trials:
+        if res_idx < max_res_records and trial['score'] > .5:
+            trial_results.append(trial)
+            res_idx = res_idx+1
+        
+
+    print (json.dumps(trial_results))
 
 if __name__ == "__main__":
     main(sys.argv[7:])

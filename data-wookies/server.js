@@ -48,7 +48,7 @@ function runScript(gender, age, zipcode, distance, cancerType, cancerSite, cance
     /*
     python -u get-trials.py --participant
     */
-    return spawn('python3', [
+    return spawn('python', [
       "-u", SCRIPT_PATH,
       gender,
       age,

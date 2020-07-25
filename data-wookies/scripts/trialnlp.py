@@ -70,5 +70,5 @@ def get_trial_score(cancer_type, cancer_site, cancer_stage, anatomic_sites_list,
     
     score = cdm + csm
 
-    return score
+    return round(score, 1)
 
