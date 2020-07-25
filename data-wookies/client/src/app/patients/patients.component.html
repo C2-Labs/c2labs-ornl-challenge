@@ -202,16 +202,14 @@
           <tr>
             <td class="tableHeaderStyle">ID</td>
             <td class="tableHeaderStyle">Title</td>
-            <td class="tableHeaderStyle">Location</td>
-            <td class="tableHeaderStyle">Phone #</td>
+            <td class="tableHeaderStyle">Score</td>
           </tr>
         </thead>
         <tbody>
           <tr *ngFor="let t of trials">
             <td>{{ t.nci_id }}</td>
             <td>{{ t.title }}</td>
-            <td>{{ t.location }}</td>
-            <td>{{ t.contact_phone }}</td>
+            <td>{{ t.score }}</td>
           </tr>
         </tbody>
       </table>
