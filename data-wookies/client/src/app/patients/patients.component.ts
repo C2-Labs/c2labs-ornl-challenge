@@ -29,11 +29,8 @@ export class PatientsComponent implements OnInit {
   getTrials() {
     this.appService.getTrials(this.p)
       .subscribe((data: any[]) => {
-        console.log(data);
         this.trials = data;
     });
-    console.log("trials=" + this.trials);
-    
   }
 
   //clear for a new search

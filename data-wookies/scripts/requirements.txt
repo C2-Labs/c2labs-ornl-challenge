@@ -1,0 +1,4 @@
+python-Levenshtein
+pgeocode
+from fuzzywuzzy import fuzz, process
+from gensim.parsing.preprocessing import remove_stopwords
