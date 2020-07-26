@@ -7,15 +7,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-User input:
-```{r}
-stage<- readline(prompt = "Cancer Stage (1-4): ")
-site<- readline(prompt = "Where is your cancer located? (organ): ")
-keywords<- readline(prompt = "Enter additional keywords separated by commas: ")
-```
-
 Cleaning input data:
 ```{r}
+keyword<- c("node", "carcinoma", "stage", "chemo", "chemotherapy", "tomography")
+site<- "Lung"
+stage<- 3
 if(stage == 1){stage<- "I"}else{
   if(stage == 2){stage<- "II"}else{
     if(stage == 3){stage <- "III"}else{
@@ -23,61 +19,16 @@ if(stage == 1){stage<- "I"}else{
     }
   }
 }
-stage
-
-keyword<- as.vector(strsplit(keywords, ", ")[[1]])
-length(keyword)
-
-#tokenize site, keywords
+#keyword<- as.vector(strsplit(keyword, ", "))
 ```
 
 ```{r}
+library(stringr)
+library(readr)
+trials_flatten<-read.csv("~/Documents/ORNL_Data_Challenge/trials_flatten.csv")
 
-keywords<- c()
-j<- 2
-keywords<- keyword[j]
+trials_filtered<-trials_flatten
 
-k<-0 #trial score counter
-m<-1
-i<- 4
-if(length(grep(pattern = keywords, x = trials_filtered[m,i])) ==1){k <- k+.1}
-k
-
-
-{keyword<- c("node", "carcinoma", "stage", "chemo", "chemotherapy")
-site<- "lung"
-stage<- "III"
-
-#View(trials_filtered)
-keywords<- c()
-trials_filtered$score<-c(rep(0, nrow(trials_filtered))) #make score column; initially fill with 0's
-
-for (m in 1:nrow(trials_filtered)) { #loop through each row/trial of the data
-  for (j in 1:length(keyword)) { #loop through each keyword word/phrase the user input
-      keywords<- keyword[j]
-        for (i in 4:(length(trials_filtered)-1)) { #loop through each description column.
-          if(length(grep(pattern = keywords, x = trials_filtered[m,i])) ==1){trials_filtered$score[m] <- trials_filtered$score[m]+ .1} # add +.1 for each string match
-        } #end i
-         if( (length(grep(pattern = site, x = trials_filtered[m,2]))==1) | (length(grep(pattern = site, x = trials_filtered[m,3]))==1) ){trials_filtered$score[m]<- trials_filtered$score[m]+1 #add +1 for an anatomic site match
-              for (k in 4:(length(trials_filtered)-1)) { #loop through each description column to look for stage - ONLY IF anatomic site is a match
-                if((length(grep(pattern = stage, x = trials_filtered[m,k])) ==1) & (length(grep(pattern= "stage", x = trials_filtered[m,k]))==1) ){trials_filtered$score[m] <- trials_filtered$score[m]+ .5} # add +.5 for each stage match only if anatomic site matches
-              } #end k
-         } #end if
-  }#end j
-} #end m 
-
-trials_filtered$score
-trials_filtered[order(-trials_filtered$score),c("nci_id", "score", "anatomic_site_0", "anatomic_site_1")] #sort by highest score
-}
-
-
-trials_filtered<- trials_flatten
-
-{keyword<- c("node", "carcinoma", "stage", "chemo", "chemotherapy", "tomography")
-site<- "Lung"
-stage<- "III"
-
-#View(trials_filtered)
 keywords<- c()
 trials_filtered$score<-c(rep(0, nrow(trials_filtered))) #make score column; initially fill with 0's
 
@@ -96,11 +47,5 @@ for (m in 1:nrow(trials_filtered)) {
 } 
 trials_filtered$score
 trials_filtered[order(-trials_filtered$score),c("nci_id", "score", "anatomic_site_0")] #sort by highest score
-}
 
 ```
-
-```{r}
-View(trials_flatten[which(trials_flatten$anatomic_site_0 == "Lung"),])
-```
-
