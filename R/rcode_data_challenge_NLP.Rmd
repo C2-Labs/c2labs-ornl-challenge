@@ -1,0 +1,254 @@
+---
+title: "data wookies"
+output:
+  word_document: default
+  html_document: default
+editor_options:
+  chunk_output_type: console
+---
+
+```{r}
+install.packages("httr")
+install.packages("jsonlite")
+library(httr)
+library(jsonlite)
+
+url = "http://20.42.25.27:9200/participants/_search"
+
+# query = '{"_source": ["nci_id","eligibility","anatomic_sites"],"query": {"bool" : {"must" : {"match_all" : {}},"filter" : {"geo_distance" : {"distance" : "50km","sites.org_coordinates" : "40,-90"}}}}}'
+
+res = GET(url)
+
+participantsRaw<-fromJSON(rawToChar(res$content))
+
+participants<-participantsRaw[['hits']][['hits']]
+
+participants
+View(participantsRaw)
+```
+
+```{r}
+library(httr)
+library(jsonlite)
+
+url = "http://20.42.25.27:9200/trials/_doc/NCT00392327_update"
+
+# query = '{"_source": ["nci_id","eligibility","anatomic_sites"],"query": {"bool" : {"must" : {"match_all" : {}},"filter" : {"geo_distance" : {"distance" : "50km","sites.org_coordinates" : "40,-90"}}}}}'
+
+res = GET(url)
+
+# res = GET(url, body=query, encode = 'json')
+
+# rawToChar(res$content)
+data = fromJSON(rawToChar(res$content))
+
+data
+```
+
+```{r}
+#install.packages("tidytext")
+#install.packages("dplyr")
+#install.packages("SnowballC")
+library(dplyr)
+library(tidytext)
+library(SnowballC)
+#install.packages("widyr")
+library(widyr)
+#install.packages("randomForest")
+library(randomForest)
+#install.packages("tm")
+library(tm)
+
+
+
+testrial<-NCT0039292
+length(grep(pattern = 'brain', x = testrial))
+#grep(pattern = "brain", x = testrial)
+#grep(pattern = "brain", x = testrial, value = TRUE)
+
+# Tokenize testtrial's outcome_measures_description column
+#testrial$outcome_measures__description[1:18] #all other rows are NA
+tidy_testrial <- trials_filtered %>%
+  unnest_tokens(word, description_0) 
+tidy_testrial %>%
+  count(word, sort = TRUE)
+
+# Remove stop words, using stop_words from tidytext
+tidy_testrial<- tidy_testrial %>%
+  anti_join(stop_words)
+stemmed_testrial<- tidy_testrial %>% 
+  mutate(word=wordStem(word))
+
+stemmed_testrial %>%
+  count(word, sort = TRUE)
+```
+
+```{r}
+#install.packages("stringr")
+library(stringr)
+trials_filtered %>%
+  filter(str_detect(anatomic_site_0, "lung"))
+as.data.frame(trials_filtered) %>%
+  filter(str_detect(ana))
+trials_filtered
+
+testrial_weights<- trials_transposed %>%
+  unnest_tokens(output = "word", token = "words", input =`NCI-2009-00603`) %>%
+  anti_join(stop_words) %>%
+  count(nci_id, word, sort=TRUE) %>%
+  bind_tf_idf(word, nci_id, n)
+
+testrial_weights %>%
+    arrange(desc(tf_idf))
+
+#Highest tfidf vals
+View(testrial_weights %>%
+    filter(tf_idf !=0) %>%
+  filter(word != "patients") %>%
+  filter(word != "cancer") %>%
+  filter(word != "clinical") %>%
+  filter(word != "lifestyle") %>%
+  filter(word != "complete") %>%
+  filter(word != "completed") %>%
+  filter(word != "disease") %>%
+  filter(word != "primary") %>%
+  filter(word != "months") %>%
+  filter(word != "previous") %>%
+  filter(word != "primary") %>%
+  filter(word != 0) %>%
+  filter(word != "pre") %>%
+  filter(word != "entry") %>%
+  arrange(desc(tf_idf)))
+testrial_weights
+#lowest non-zero tfidf
+testrial_weights %>%
+  filter(tf_idf !=0) %>%
+  filter(word != "patients") %>%
+  filter(word != "cancer") %>%
+  filter(word != "clinical") %>%
+  filter(word != "lifestyle") %>%
+  filter(word != "complete") %>%
+  filter(word != "completed") %>%
+  filter(word != "disease") %>%
+  filter(word != "primary") %>%
+  filter(word != "months") %>%
+  filter(word != "previous") %>%
+  filter(word != "primary") %>%
+  filter(word != 0) %>%
+  arrange(tf_idf)
+
+  ##########################################    Cosine similarity
+
+#create word counts
+filteredtrials_counts <- trials_filtered %>%
+  unnest_tokens(word, description_0) %>%
+  anti_join(stop_words) %>%
+  count(nci_id, word) %>%
+  bind_tf_idf(nci_id, word, n)
+
+filteredtrials_counts%>%
+arrange(desc(tf_idf))
+
+
+#calculate cosine similarity on word counts 
+#highest similarities are closes to 1
+filteredtrials_counts %>%
+  pairwise_similarity(nci_id, word, n) %>%
+  arrange(desc(similarity)) 
+
+#calculate cosine similarity using tf_idf vals
+filteredtrials_counts %>%
+  pairwise_similarity(nci_id, word, tf_idf) %>%
+  arrange(desc(similarity))
+
+```
+
+Random forest
+```{r}
+trials_filtered$description_0
+#Prep work
+# EX: search female vs male
+sentences <- trials_filtered %>%
+  unnest_tokens(output = "sentence", token = "sentences", input = description_0)
+sentences$brain <- grepl('brain', sentences$sentence)
+sentences$lung <- grepl('lung', sentences$sentence)
+#Replace gender name
+sentences$sentence <- gsub("brain", "organ X", sentences$sentence)
+sentences$sentence <- gsub("lung", "organ X", sentences$sentence)
+organ_sentences<- sentences[sentences$brain + sentences$lung == 1, ]
+
+organ_sentences$Name <- as.factor(ifelse(organ_sentences$brain, "brain", "lung"))
+
+#75 of each 
+organ_sentences<- rbind(organ_sentences[organ_sentences$Name == "brain", ][c(1:75), ],
+              organ_sentences[organ_sentences$Name == "lung", ][c(1:75), ])
+organ_sentences$sentence_id <- c(1:dim(organ_sentences)[1])
+
+#Prepare the data
+organ_tokens <- organ_sentences %>%
+  unnest_tokens(output = "word", token = "words", input = sentence) %>%
+  anti_join(stop_words) %>%
+  mutate(word = wordStem(word))
+
+organ_matrix <- organ_tokens %>%
+  count(sentence_id, word) %>%
+  cast_dtm(document = sentence_id,
+        term = word, value = n, weighting = tm::weightTfIdf)
+organ_matrix
+
+
+######Random forest
+set.seed(1111)
+sample_size<- floor(.75*nrow(organ_matrix))
+train_ind<- sample(nrow(organ_matrix), size = sample_size)
+
+train<- organ_matrix[train_ind, ]
+test<- organ_matrix[-train_ind, ]
+
+rfc<- randomForest(x = as.data.frame(as.matrix(train)), 
+                   y = organ_sentences$Name[train_ind], ntree = 50)
+rfc
+```
+
+What needs to be done: bind all descriptions so its all in one column - ease of searching
+description_0:description_37
+```{r}
+#create word counts
+filteredtrials_counts <- trials_filtered %>%
+  unnest_tokens(word, description_0) %>%
+  anti_join(stop_words) %>%
+  count(nci_id, word) %>%
+  bind_tf_idf(nci_id, word, n)
+
+filteredtrials_counts%>%
+arrange(desc(tf_idf))
+
+max(filteredtrials_counts$tf_idf)
+filteredtrials_counts[which(filteredtrials_counts$tf_idf ==max(filteredtrials_counts$tf_idf))]
+
+```
+
+
+```{r}
+length(grep(pattern = "brain", x = trials_filtered[5,5]))
+trials_filtered[,41]
+
+#start at [2,1]
+
+trials_filtered[m,i]
+k<-0
+for (i in 2:41) {
+  if(length(grep(pattern = "patients", x = trials_filtered[m,i])) ==1){k <- k+1}
+  if(length(grep(pattern = "Patients", x = trials_filtered[m,i])) ==1){k <- k+1}
+  if(length(grep(pattern = "brain", x = trials_filtered[m,i])) ==1){k <- k+1}
+  if(length(grep(pattern = "Brain", x = trials_filtered[m,i])) ==1){k <- k+1}
+  if(length(grep(pattern = "Phase II", x = trials_filtered[m,i])) ==1){k <- k+1}
+  if(length(grep(pattern = "50,000", x = trials_filtered[m,i])) ==1){k <- k+1}
+  if(length(grep(pattern = "life expectancy", x = trials_filtered[m,i])) ==1){k <- k+1}
+  print(k)
+}
+
+trials_filtered[,5]
+k
+```
+
