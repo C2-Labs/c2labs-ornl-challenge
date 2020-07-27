@@ -19,10 +19,10 @@ spec:
   - host: datawookies.c2labs.com
     http:
       paths: 
-      # - backend:
-      #     serviceName: kibana-service
-      #     servicePort: 5601
-      #   path: /kibana/(.*)
+      - backend:
+          serviceName: datawookies-service
+          servicePort: 3000
+        path: /(.*)
       - backend:
           serviceName: es-client
           servicePort: 9200
