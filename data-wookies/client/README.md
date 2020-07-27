@@ -7,6 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Download and install Python (recommend version 3) - [Download](https://www.python.org/downloads/)
 - Download and install NodeJS (recommend 12.18.3 Long Term Support) - [Download](https://nodejs.org/en/download/)
 - Download and install Angular CLI (must be >= 9.0 version) - [Download](https://cli.angular.io/)
+- Install the application packages for Python using pip, `python3 -m pip install packageName`
 
 ## Development server
 Open a terminal and from the datawookies folder run `npm run dev` to startup the NodeJS dev server.
