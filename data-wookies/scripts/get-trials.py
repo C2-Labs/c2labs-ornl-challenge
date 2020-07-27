@@ -74,7 +74,7 @@ def main(argv):
                 "score": score, \
                 })
     else:
-        print ({"Trials": "No Results"})
+        print (trials)
 
     sorted_trials = sorted(trials, reverse=True, key=lambda i: i['score']) 
 
