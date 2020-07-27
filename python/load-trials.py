@@ -14,7 +14,7 @@ def get_coordinates(zipcode):
 
 def insert_es_data(idx, data):
 
-    url = 'http://20.42.25.27:9200/trials/_doc/' + idx +'_update/'
+    url = 'https://datawookies.c2labs.com/es/trials/_doc/' + idx +'_update/'
     headers = {'accept': '*/*'}
     response = requests.post(url, json=data, headers=headers, auth=HTTPBasicAuth('elastic', 'pzs5iFdMGK5jS8U84akV'))
     print(response.content)
