@@ -38,4 +38,9 @@ export class PatientsComponent implements OnInit {
     this.trials = [];
   }
 
+  //navigate to the trial ID
+  navigate(id) {
+    window.open('https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?&id=' + id);
+  }
+
 }

@@ -12,8 +12,8 @@
       </div>
 
       <div class="form-group">
-        <label for="keywords">Keywords (cancer type, stage, symptoms, location of the cancer on the body, etc.)</label>
-        <textarea class="form-control" id="keywords" rows="3" name="keywords" [(ngModel)]="p.keywords"></textarea>
+        <label for="keywords">Anatomical Site</label>
+        <input class="form-control" id="keywords" name="keywords" title="Enter location on your body of the cancer." [(ngModel)]="p.keywords">
       </div>
 
       <div class="form-group">
@@ -200,16 +200,23 @@
       <table class="table table-hover">
         <thead>
           <tr>
+            <td>View</td>
             <td class="tableHeaderStyle">ID</td>
             <td class="tableHeaderStyle">Title</td>
             <td class="tableHeaderStyle">Score</td>
+            <td class="tableHeaderStyle text-center" colspan="2">Feedback</td>
           </tr>
         </thead>
         <tbody>
           <tr *ngFor="let t of trials">
+            <td><button type="button" class="btn btn-primary" (click)="navigate(t.nci_id)">View</button></td>
             <td>{{ t.nci_id }}</td>
             <td>{{ t.title }}</td>
-            <td>{{ t.score }}</td>
+            <td *ngIf="t.score >= 1.5"><span class="badge badge-success">{{ t.score }}</span></td>
+            <td *ngIf="t.score < 1.5 && t.score >= 1"><span class="badge badge-warning">{{ t.score }}</span></td>
+            <td *ngIf="t.score < 1"><span class="badge badge-danger">{{ t.score }}</span></td>
+            <td><button type="button" class="btn btn-success"><i class="fas fa-thumbs-up"></i></button></td>
+            <td><button type="button" class="btn btn-danger"><i class="fas fa-thumbs-down"></i></button></td>
           </tr>
         </tbody>
       </table>
