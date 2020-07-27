@@ -72,10 +72,9 @@ def main(argv):
                 "nct_id": item['_source']['nct_id'], \
                 "title": item['_source']['brief_title'], \
                 "score": score, \
-                "gender": item['_source']['eligibility']['structured']['gender'], \
                 })
     else:
-        print ("No Results")
+        print ({"Trials": "No Results"})
 
     sorted_trials = sorted(trials, reverse=True, key=lambda i: i['score']) 
 

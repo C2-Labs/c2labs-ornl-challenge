@@ -1,12 +1,9 @@
-http://20.42.25.27/:9200/participants
-
-PUT
-
+PUT /participants
 {
     "settings": {
         "index": {
             "number_of_shards": 1,
-            "number_of_replicas": 0
+            "number_of_replicas": 1
         }
     },
     "mappings": {

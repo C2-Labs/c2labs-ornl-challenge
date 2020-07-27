@@ -35,6 +35,30 @@ app.post('/api/trials', (req, res) => {
       });
 });
 
+app.get('/', (req,res) => {
+    res.sendFile(process.cwd()+"/client/dist/data-wookies/index.html");
+});
+
+app.get('/home', (req,res) => {
+    res.sendFile(process.cwd()+"/client/dist/data-wookies/index.html");
+});
+
+app.get('/patients', (req,res) => {
+    res.sendFile(process.cwd()+"/client/dist/data-wookies/index.html");
+});
+
+app.get('/providers', (req,res) => {
+    res.sendFile(process.cwd()+"/client/dist/data-wookies/index.html");
+});
+
+app.get('/visualizations', (req,res) => {
+    res.sendFile(process.cwd()+"/client/dist/data-wookies/index.html");
+});
+
+app.get('/docs', (req,res) => {
+    res.sendFile(process.cwd()+"/client/dist/data-wookies/index.html");
+});
+
 
 app.listen(port, () => {
     console.log(`Server listening on the port::${port}`);
@@ -48,7 +72,7 @@ function runScript(gender, age, zipcode, distance, cancerType, cancerSite, cance
     /*
     python -u get-trials.py --participant
     */
-    return spawn('python', [
+    return spawn('python3', [
       "-u", SCRIPT_PATH,
       gender,
       age,
