@@ -90,7 +90,7 @@ def clean_specific_treatment(val):
 
 def insert_es_data(id_idx, data):
   
-    url = 'http://20.42.25.27:9200/participants/_doc/' + str(id_idx) + '_update/'
+    url = 'https://datawookies.c2labs.com/es/participants/_doc/' + str(id_idx) + '_update/'
     headers = {'accept': '*/*'}
     # response = requests.post(url, json=data, headers=headers, auth=HTTPBasicAuth('elastic', 'pzs5iFdMGK5jS8U84akV'))
     response = requests.post(url, json=data, headers=headers)
