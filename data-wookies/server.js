@@ -22,10 +22,11 @@ app.post('/api/trials', (req, res) => {
     const child = runScript(gender, age, zipcode, distance, cancerType, cancerSite, cancerStage)
     console.log("Script Started");
     child.stdout.on('data', (data) => {
-        from_python = data.toString("utf8");
-        to_json = JSON.parse(from_python);
-        console.log(to_json);
-        res.json(to_json);
+        try {
+            res.json(JSON.parse(data.toString("utf8")));
+        } catch (error) {
+            res.json(error);
+        }
       });
       child.stderr.on('data', (data) => {
         console.log(`error:\n${data}`);
