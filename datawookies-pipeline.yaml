@@ -14,12 +14,11 @@ stages:
       - task: Docker@2
         displayName: 'Build Image and Push to ACR'
         inputs:
-          containerRegistry: 'C2 Container Registry'
+          containerRegistry: 'ACR'
           repository: 'datawookies'
           command: 'buildAndPush'
           Dockerfile: '**/Dockerfile'
-          tags: |
-            $(commit-tag)
+          tags: '$(commit-tag)'
                    
 - stage: Deploy
   pool:
@@ -33,7 +32,10 @@ stages:
         - task: Kubernetes@1
           displayName: 'Deploy Datawookies with New Image'
           inputs:
+            connectionType: 'Kubernetes Service Connection'
             kubernetesServiceEndpoint: 'AKS Datawookies'
             namespace: 'ornl'
-            command: set
+            command: 'set'
             arguments: 'image deployment/datawookies datawookies=c2labs.azurecr.io/datawookies:$(commit-tag) --record'
+            secretType: 'dockerRegistry'
+            containerRegistryType: 'Azure Container Registry'
