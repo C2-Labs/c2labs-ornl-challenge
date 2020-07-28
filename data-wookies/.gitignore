@@ -9,6 +9,7 @@
 
 # dependencies
 /node_modules
+/scripts/__pycache__
 
 # profiling files
 chrome-profiler-events*.json

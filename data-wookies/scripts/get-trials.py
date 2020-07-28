@@ -70,15 +70,15 @@ def main(argv):
 
             trials.append({"nci_id": item['_source']['nci_id'], \
                 "nct_id": item['_source']['nct_id'], \
-                "title": item['_source']['brief_title'], \
+                "title": item['_source']['brief_title'].replace('/','').strip(), \
                 "score": score, \
                 })
     else:
-        print (trials)
+        print ("No Results")
 
     sorted_trials = sorted(trials, reverse=True, key=lambda i: i['score']) 
 
-    max_res_records = 25
+    max_res_records = 30
     res_idx = 0
     trial_results = []
     for trial in sorted_trials:
