@@ -1,4 +1,4 @@
-<div class="card" *ngIf="this.trials.length == 0">
+<div class="card" *ngIf="this.trials.length == 0 && bSearch == false">
   <div class="card-header">
     <h5 class="card-title">Trial Finder - Participant Form</h5>
   </div>
@@ -194,17 +194,17 @@
 </div>
 
 <!-- Show the trial results-->
-<div class="card" *ngIf="this.trials.length > 0">
+<div class="card" *ngIf="bSearch == true">
   <div class="card-header">
     <h5 class="card-title">Results: Most Relevant Trials</h5>
     <button type="button" class="btn btn-primary" (click)="newSearch()">New Search</button>
   </div>
   <div class="card-body">
-    <div class="table-responsive">
+    <div class="table-responsive" *ngIf="this.trials.length > 0">
       <table class="table table-hover">
         <thead>
           <tr>
-            <td>View</td>
+            <td class="tableHeaderStyle">View</td>
             <td class="tableHeaderStyle">ID</td>
             <td class="tableHeaderStyle">Title</td>
             <td class="tableHeaderStyle">Score</td>
@@ -225,5 +225,6 @@
         </tbody>
       </table>
     </div>
+    <h3 *ngIf="this.trials.length == null || this.trials.length == 0">No applicable clinical trials are available.</h3>
   </div>
 </div>
