@@ -1,8 +1,6 @@
 import { Participant } from './../participant';
-import { Component, OnInit, OnDestroy } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { AppService } from '../app.service';
-import { takeUntil } from 'rxjs/operators';
-import { Subject } from 'rxjs';
 
 @Component({
   selector: 'app-patients',
@@ -14,9 +12,10 @@ export class PatientsComponent implements OnInit {
 
 
   //declare variables
-  destroy$: Subject<boolean> = new Subject<boolean>();
   p = new Participant();
   trials: any[] = [];
+  bSpin: boolean = false;
+  strError: string = '';
 
   //inject services
   constructor(private appService: AppService) { }
@@ -27,15 +26,38 @@ export class PatientsComponent implements OnInit {
 
   //retrieve the list of trials
   getTrials() {
+    //show the spinner
+    this.bSpin = true;
+
+    //reset the error
+    this.strError = '';
+
+    //fetch the data
     this.appService.getTrials(this.p)
       .subscribe((data: any[]) => {
+        //load the data
         this.trials = data;
+
+        //hide the spinner
+        this.bSpin = false;
+    }, error => {
+      //log the error
+      console.log(error);
+
+      //error
+      this.strError = 'Oops: Something went wrong.  Please try again later.';
+
+      //hide the spinner
+      this.bSpin = false;
     });
   }
 
   //clear for a new search
   newSearch() {
+    //reset trials
     this.trials = [];
+    //reset participant data
+    this.p = new Participant();
   }
 
   //navigate to the trial ID
