@@ -182,7 +182,11 @@
         </select>
       </div>
 
-      <button type="button" class="btn btn-primary" (click)="getTrials()">Find Trials</button>
+      <button type="button" class="btn btn-primary mb-2" (click)="getTrials()">Find Trials</button>
+      <img src="./assets/loading.gif" style="height: 50px;" *ngIf="bSpin == true">
+      <div class="alert alert-danger" role="alert" *ngIf="strError != ''">
+        <i class="fas fa-exclamation-circle mr-1"></i> {{ strError }}
+      </div>
 
     </form>
 
